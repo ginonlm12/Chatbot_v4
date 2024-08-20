@@ -1,0 +1,168 @@
+2024-08-15 10:47:27,059 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 10:47:27,059 - INFO - InputText: điều hòa
+2024-08-15 10:47:27,060 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 10:47:27,060 - INFO - InputText: điều hòa
+2024-08-15 10:47:27,061 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 10:47:27,061 - INFO - InputText: điều hòa
+2024-08-15 10:47:27,062 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-6' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    task = asyncio.create_task(process_input(*request))
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 10:47:27,062 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-7' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    task = asyncio.create_task(process_input(*request))
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 10:47:27,063 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    task = asyncio.create_task(process_input(*request))
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 10:47:27,063 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 10:47:27,063 - INFO - InputText: điều hòa
+2024-08-15 10:47:27,064 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    task = asyncio.create_task(process_input(*request))
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 10:47:27,065 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 10:47:27,065 - INFO - InputText: điều hòa
+2024-08-15 10:47:27,065 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-12' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    task = asyncio.create_task(process_input(*request))
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 10:47:27,067 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 10:47:27,067 - INFO - InputText: điều hòa
+2024-08-15 10:47:27,067 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    task = asyncio.create_task(process_input(*request))
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 10:47:27,068 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 10:47:27,068 - INFO - InputText: điều hòa
+2024-08-15 10:47:27,069 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-16' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    task = asyncio.create_task(process_input(*request))
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 10:47:27,070 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 10:47:27,070 - INFO - InputText: điều hòa
+2024-08-15 10:47:27,070 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    task = asyncio.create_task(process_input(*request))
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 10:47:27,071 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 10:47:27,071 - INFO - InputText: điều hòa
+2024-08-15 10:47:27,072 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-20' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    task = asyncio.create_task(process_input(*request))
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 10:47:27,073 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 10:47:27,073 - INFO - InputText: điều hòa
+2024-08-15 10:47:27,073 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-22' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    task = asyncio.create_task(process_input(*request))
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 12:55:07,081 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 12:55:07,081 - INFO - InputText: điều hòa
+2024-08-15 12:55:07,082 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-25' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    for request in IdRequest:
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 12:55:07,085 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 12:55:07,085 - INFO - InputText: điều hòa
+2024-08-15 12:55:07,086 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-27' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    for request in IdRequest:
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 12:55:07,087 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 12:55:07,087 - INFO - InputText: điều hòa
+2024-08-15 12:55:07,088 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 12:55:07,089 - INFO - InputText: điều hòa
+2024-08-15 12:55:07,090 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-29' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    for request in IdRequest:
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 12:55:07,090 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-30' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    for request in IdRequest:
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 12:55:07,092 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 12:55:07,092 - INFO - InputText: điều hòa
+2024-08-15 12:55:07,093 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-32' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    for request in IdRequest:
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 12:55:07,094 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 12:55:07,095 - INFO - InputText: điều hòa
+2024-08-15 12:55:07,096 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-34' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    for request in IdRequest:
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 12:55:07,097 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 12:55:07,098 - INFO - InputText: điều hòa
+2024-08-15 12:55:07,098 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-36' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    for request in IdRequest:
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 12:55:07,100 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 12:55:07,100 - INFO - InputText: điều hòa
+2024-08-15 12:55:07,101 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-38' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    for request in IdRequest:
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 12:55:07,103 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 12:55:07,103 - INFO - InputText: điều hòa
+2024-08-15 12:55:07,104 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-40' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    for request in IdRequest:
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 12:55:07,105 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 12:55:07,105 - INFO - InputText: điều hòa
+2024-08-15 12:55:07,106 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-42' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    for request in IdRequest:
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'
+2024-08-15 12:55:10,567 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 12:55:10,567 - INFO - InputText: có bán sản phẩm điều hòa 60 tr không
+2024-08-15 12:55:10,567 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-44' coro=<handle_request.<locals>.main() done, defined at /home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py:82> exception=TypeError("handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'")>
+Traceback (most recent call last):
+  File "/home/aiai01/Production/Rasa_LLM_Elasticsearch_update_v3 copy/main_run.py", line 85, in main
+    for request in IdRequest:
+TypeError: handle_request.<locals>.process_input() missing 3 required positional arguments: 'IdRequest', 'NameBot', and 'User'

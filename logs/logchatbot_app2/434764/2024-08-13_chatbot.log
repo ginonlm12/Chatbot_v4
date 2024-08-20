@@ -1,0 +1,1926 @@
+2024-08-13 20:59:18,972 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 20:59:18,972 - INFO - InputText: tôi muốn tìm kiếm sản phẩm tương tự
+2024-08-13 20:59:18,973 - INFO - ---ChatText---
+2024-08-13 20:59:18,973 - INFO - =====rasa=====
+2024-08-13 20:59:19,679 - INFO - +rasa out+:
+Anh/chị vui lòng nhập thông tin sản phẩm để tìm sản phẩm tương tự.
+2024-08-13 20:59:19,680 - INFO - ====rasa done!====
+2024-08-13 20:59:19,683 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 20:59:32,937 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 20:59:32,937 - INFO - InputText: None
+2024-08-13 20:59:32,937 - INFO - ---Similarity---
+2024-08-13 20:59:41,398 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 21:02:41,613 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 21:02:41,613 - INFO - InputText: None
+2024-08-13 21:02:41,613 - INFO - ---Inventory---
+2024-08-13 21:02:42,307 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 21:03:54,401 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 21:03:54,401 - INFO - InputText: None
+2024-08-13 21:03:54,401 - INFO - ---Inventory---
+2024-08-13 21:03:54,817 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 21:03:56,211 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 21:03:56,211 - INFO - InputText: None
+2024-08-13 21:03:56,213 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 21:04:03,615 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 21:04:03,616 - INFO - InputText: Thời gian lâu nhất mà đèn năng lượng mặt trời có thể sử dụng là bao lâu?
+2024-08-13 21:04:03,617 - INFO - ---ChatText---
+2024-08-13 21:04:03,617 - INFO - =====rasa=====
+2024-08-13 21:04:04,202 - INFO - +rasa out+:
+LLM_predict
+2024-08-13 21:04:04,203 - INFO - ====rasa done!====
+2024-08-13 21:04:04,204 - INFO - =====LLM=====
+2024-08-13 21:04:06,558 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 21:04:07,952 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 21:04:07,958 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-13 21:04:08,137 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.005s]
+2024-08-13 21:04:08,137 - INFO - ======== elasticsearch output ==========:
+
+1. *đèn trụ cổng năng lượng mặt trời. - Mã: SMDEN000033
+  Thông số sản phẩm: • công suất định mức: 5w
+• nhiệt độ làm việc: -20c ~ 65c
+• nhiệt độ màu: 6500k
+• tuổi thọ bóng đèn led: 50.000 giờ
+• chế độ điều khiển: tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời sáng.
+• lớp chống thấm nước: ip-65• thời gian chiếu sáng: 10-12h liên tục
+• pin: 8.000mah li-pin
+• kích thước đèn vuông: 19.5 x 19.5 x 17 cm(dxrxc), chân đế: 11x11 cm
+• kích thước đèn tròn: 20.5 x 20.5 x 16.5 cm(dxrxc), chân đế: 11x11 cm• cân nặng: 0.95kg
+ - Giá tiền: 869,000 đ*
+
+2. *bộ đèn led năng lượng mặt trời sv05 - Mã: SMDEN000027
+  Thông số sản phẩm: công suất định mức: 90w
+bảng điều khiển năng lượng mặt trời: polycrystal 6v/15w
+nhiệt độ làm việc: -20c ~ 65c
+nhiệt độ mầu: 6500k
+tuổi thọ bóng đèn led: 50.000 giờ
+chế độ điều khiển: tích hợp bộ cảm biến ánh sang, tự động bật đèn khi trời tối, tắt đèn khi trời sáng
+lớp chống thấm nước: ip-65
+thời gian chiếu sáng: 28-30h liên tục
+pin: 30.000mah lifepo4
+mầu sắc: đen
+kích thước: 42 x 42 x 12.5 cm (dxrxc)
+cân nặng: 3kg
+ - Giá tiền: 1,401,000 đ*
+
+3. *đèn đường năng lượng mặt trời suntek s6 - Mã: SMDMT000001
+  Thông số sản phẩm: công suất định mức: 135w
+bảng điều khiển năng lượng mặt trời: polycrystal 6v/45w
+nhiệt độ làm việc: -20c ~ 65c
+chế độ điều khiển: tích hợp bộ cảm biến ánh sang, tự động bật đèn khi trời tối, tắt đèn khi trời sang + có điều khiển từ xa.
+lớp chống thấm nước: ip-65
+chống sét tvs
+thời gian chiếu sáng: 30-32h liên tục
+pin: 3.2v/60.000mah lifepo4
+kích thước đèn:  24 x 8 x 57cm(dxrxc)
+kích thước tấm năng lượng mặt trời: 67 x 2.5 x 44.5cm (dxrxc)
+trọng lượng: 8kg
+ - Giá tiền: 2,339,000 đ*
+
+4. *bộ đèn led năng lượng mặt trời sv06 - Mã: SMDEN000028
+  Thông số sản phẩm: công suất định mức: 150w
+bảng điều khiển năng lượng mặt trời: polycrystal 6v/25w
+nhiệt độ làm việc: -20c ~ 65c
+nhiệt độ mầu: 6500k
+tuổi thọ bóng đèn led: 50.000 giờ
+chế độ điều khiển: tích hợp bộ cảm biến ánh sang, tự động bật đèn khi trời tối, tắt đèn khi trời sáng
+lớp chống thấm nước: ip-65
+thời gian chiếu sáng: 28-30h liên tục
+pin: 48.000mah lifepo4
+mầu sắc: đen
+kích thước: 55 x 55 x 12.5 cm (dxrxc)
+cân nặng: 4.8kg
+ - Giá tiền: 1,660,000 đ*
+
+2024-08-13 21:04:08,138 - INFO - ==Conversation==
+2024-08-13 21:04:08,982 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 21:04:08,995 - INFO - +LLM out+:
+Theo thông tin tôi tìm thấy, thời gian sử dụng lâu nhất của đèn năng lượng mặt trời là 50.000 giờ, thuộc về các sản phẩm đèn trụ cổng năng lượng mặt trời và bộ đèn led năng lượng mặt trời sv05, sv06.
+2024-08-13 21:04:08,995 - INFO - =====LLM done!=====
+2024-08-13 21:04:08,997 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 21:04:09,000 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 21:04:09,000 - INFO - InputText: None
+2024-08-13 21:04:09,000 - INFO - ---Inventory---
+2024-08-13 21:04:09,478 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 21:06:40,309 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 21:06:40,310 - INFO - InputText: Bạn muốn tìm kiếm sản phẩm tương tự?
+2024-08-13 21:06:40,310 - INFO - ---ChatText---
+2024-08-13 21:06:40,310 - INFO - =====rasa=====
+2024-08-13 21:06:42,270 - INFO - +rasa out+:
+Anh/chị vui lòng nhập thông tin sản phẩm để tìm sản phẩm tương tự.
+2024-08-13 21:06:42,270 - INFO - ====rasa done!====
+2024-08-13 21:06:42,272 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 21:07:28,431 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 21:07:28,431 - INFO - InputText: None
+2024-08-13 21:07:28,431 - INFO - ---Similarity---
+2024-08-13 21:07:35,050 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 21:46:23,048 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 21:46:23,048 - INFO - InputText: tồn kho
+2024-08-13 21:46:23,048 - INFO - ---ChatText---
+2024-08-13 21:46:23,048 - INFO - =====rasa=====
+2024-08-13 21:46:23,763 - INFO - +rasa out+:
+Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:
+2024-08-13 21:46:23,764 - INFO - ====rasa done!====
+2024-08-13 21:46:23,766 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 21:46:30,462 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 21:46:30,462 - INFO - InputText: Tôi cần máy giặt nào có khối lượng giặt 10kg?
+2024-08-13 21:46:30,462 - INFO - ---ChatText---
+2024-08-13 21:46:30,463 - INFO - =====rasa=====
+2024-08-13 21:46:31,052 - INFO - +rasa out+:
+LLM_predict
+2024-08-13 21:46:31,052 - INFO - ====rasa done!====
+2024-08-13 21:46:31,052 - INFO - =====LLM=====
+2024-08-13 21:46:32,215 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 21:46:33,470 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 21:46:33,476 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-13 21:46:33,562 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-13 21:46:33,563 - INFO - ======== elasticsearch output ==========:
+
+1. *máy giặt aqua 9 kg aqw-f91gt.s - Mã: M&EGD000250
+  Thông số sản phẩm: • loại máy giặt: cửa trên
+• lồng giặt: lồng đứng
+• khối lượng giặt: 9 kg 
+• số người sử dụng: từ 3 - 5 người
+• kiểu động cơ: truyền động gián tiếp (dây curoa)
+• tốc độ quay vắt tối đa: 700 vòng/phút
+• chất liệu lồng giặt: thép không gỉ
+• chất liệu vỏ máy: kim loại sơn tĩnh điện
+• chất liệu nắp máy: kính chịu lực
+• hiệu suất sử dụng điện: 10.9 wh/kg
+• chương trình giặt: chăn mền, vắt cực khô, giặt mạnh, giặt ngâm, giặt nhanh, giặt nhẹ, giặt thơm, giặt tiêu chuẩn
+• công nghệ giặt: diệt khuẩn khử mùi nano ag+ giặt nhiều luồng nước phun multijet
+• bảng điều khiển: song ngữ anh - việt
+• tiện ích: hẹn giờ giặt, khóa trẻ em, van sử dụng mực nước thấp, vệ sinh lồng giặt
+• kích thước, khối lượng: cao 100.6 cm - ngang 53.3 cm - sâu 58 cm - nặng 36 kg
+• chiều dài ống cấp nước: 128 cm
+• chiều dài ống thoát nước: 77 cm
+ - Giá tiền: 4,890,000 đ*
+
+2. *máy giặt electrolux ultimatecare 500 inverter ewf1024p5sb - Mã: 128004000003
+  Thông số sản phẩm: loại máy giặt: cửa trước 
+lồng giặt: lồng ngang
+khối lượng giặt: 10 kg
+số người sử dụng: từ 5 - 7 người 
+kiểu động cơ: truyền động gián tiếp (dây curoa)
+tốc độ quay vắt tối đa: 1200 vòng/phút
+chất liệu lồng giặt: thép không gỉ
+chất liệu vỏ máy: kim loại sơn tĩnh điện
+chất liệu nắp máy: nhựa + kính cường lực, thép
+sản xuất tại: thái lan
+thời gian bảo hành động cơ: 10 năm
+hiệu suất sử dụng điện: 16.5 wh/kg
+loại inverter: công nghệ ecoinverterchương trình giặt: chế độ yêu thích, giặt 60 phút, đồ trải giường, giặt nhanh 15 phút, giặt nhanh 39 phút, giặt tiết kiệm, vắt, vệ sinh lồng giặt, xả + vắt, đồ cotton, đồ hỗn hợp, đồ len, đồ mỏng, đồ thể thao, đồ trẻ em
+công nghệ giặt: công nghệ giặt hơi nước hygienic carecông nghệ ultramix hoà tan nước giặt hiệu quả
+bảng điều khiển: song ngữ anh - việt có nút xoay, cảm ứng và màn hình hiển thịtiện ích: chỉnh nhiệt độ nước, chỉnh số vòng vắt, khóa trẻ em, lưu chương trình yêu thích, quản lý thời gian, thêm quần áo khi máy đang giặt, trì hoãn kết thúc, xả thêm, chế độ giặt sơ tự động
+kích thước, khối lượng: cao 85 cm - ngang 60 cm - sâu 65.5 cm - nặng 76 kg
+chiều dài ống cấp nước: 134 cmchiều dài ống thoát nước: 209 cm
+ - Giá tiền: 10,516,000 đ*
+
+3. *máy giặt aqua cửa trên - 10kg aqw-u100ft.bk - Mã: 128003000002
+  Thông số sản phẩm: loại máy giặt: lồng đứng
+động cơ : curoa
+khối lượng giặt: 10 kg
+lồng giặtthép không gỉ
+khử mùi diệt khuẩn
+khóa trẻ em
+màn hình hiển thị thời gian
+nắp máynắp kính cường lực tràn viền
+dòng điện : 220v/50hz
+tốc độ vắt: 700 vòng/phút
+kích thước (r*s*c)560 x 630 x 1006
+trọng lượng: 36,5 kg
+sản xuất tại việt nam
+bảo hành: 24 tháng
+ - Giá tiền: 5,158,000 đ*
+
+4. *máy giặt aqua cửa trên - 8kg aqw-ks80gt.s - Mã: 128003000001
+  Thông số sản phẩm: cửa trên - lồng đứng
+khối lượng giặt: 8 kg
+kiểu động cơ: truyền động gián tiếp (dây curoa)
+tốc độ quay vắt tối đa: 775 vòng/ phút
+chất liệu lồng giặt: thép không gỉ
+chất liệu vỏ máy: kim loại sơn tĩnh điện
+chất liệu nắp máy: nhựa abs + kính
+thời gian bảo hành động cơ:2 năm
+hiệu suất sử dụng điện: 11.3 wh/kg
+mâm giặt kháng khuẩn abt
+bảng điều khiển: song ngữ anh - việt có nút nhấn
+khóa trẻ em
+tự khởi động lại khi có điện
+van sử dụng mực nước thấp
+cao 93 cm - ngang 52.7 cm - sâu 56.9 cm - nặng 30.1 kg
+ - Giá tiền: 4,013,000 đ*
+
+2024-08-13 21:46:33,564 - INFO - ==Conversation==
+2024-08-13 21:46:35,551 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 21:46:35,553 - INFO - +LLM out+:
+Tôi thấy có hai sản phẩm máy giặt có khối lượng giặt 10kg:
+
+1. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB - Mã: 128004000003
+  - Bảo hành động cơ: 10 năm
+  - Kích thước: cao 85 cm - ngang 60 cm - sâu 65.5 cm - nặng 76 kg
+  - Giá tiền: 10,516,000 đ
+
+2. Máy giặt Aqua cửa trên - 10kg Aqw-U100FT.BK - Mã: 128003000002
+  - Lồng giặt thép không gỉ
+  - Khóa trẻ em
+  - Màn hình hiển thị thời gian
+  - Nắp máy kính cường lực tràn viền
+  - Dòng điện: 220V/50Hz
+  - Tốc độ vắt: 700 vòng/phút
+  - Kích thước: 560 x 630 x 1006
+  - Trọng lượng: 36,5 kg
+  - Sản xuất tại Việt Nam
+  - Bảo hành: 24 tháng
+  - Giá tiền: 5,158,000 đ
+
+Bạn có thể tham khảo thêm thông tin và chọn sản phẩm phù hợp với nhu cầu của mình.
+2024-08-13 21:46:35,554 - INFO - =====LLM done!=====
+2024-08-13 21:46:35,556 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 22:02:12,577 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 22:02:12,577 - INFO - InputText: Bạn muốn tra cứu hàng tồn kho?
+2024-08-13 22:02:12,577 - INFO - ---ChatText---
+2024-08-13 22:02:12,578 - INFO - =====rasa=====
+2024-08-13 22:02:13,289 - INFO - +rasa out+:
+Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:
+2024-08-13 22:02:13,289 - INFO - ====rasa done!====
+2024-08-13 22:02:13,291 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 22:02:24,154 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 22:02:24,154 - INFO - InputText: None
+2024-08-13 22:02:24,154 - INFO - ---Inventory---
+2024-08-13 22:02:25,251 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 22:02:32,267 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 22:02:32,267 - INFO - InputText: None
+2024-08-13 22:02:32,267 - INFO - ---Inventory---
+2024-08-13 22:02:32,622 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 22:02:59,849 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 22:02:59,849 - INFO - InputText: None
+2024-08-13 22:02:59,850 - INFO - ---Inventory---
+2024-08-13 22:03:00,186 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 22:04:11,117 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 22:04:11,118 - INFO - InputText: Bạn muốn tra cứu hàng tồn kho?
+2024-08-13 22:04:11,118 - INFO - ---ChatText---
+2024-08-13 22:04:11,118 - INFO - =====rasa=====
+2024-08-13 22:04:11,934 - INFO - +rasa out+:
+Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:
+2024-08-13 22:04:11,934 - INFO - ====rasa done!====
+2024-08-13 22:04:11,936 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 22:06:17,732 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 22:06:17,732 - INFO - InputText: Tôi cần máy giặt nào có khối lượng giặt 10kg
+2024-08-13 22:06:17,732 - INFO - ---ChatText---
+2024-08-13 22:06:17,733 - INFO - =====rasa=====
+2024-08-13 22:06:18,316 - INFO - +rasa out+:
+LLM_predict
+2024-08-13 22:06:18,317 - INFO - ====rasa done!====
+2024-08-13 22:06:18,317 - INFO - =====LLM=====
+2024-08-13 22:06:19,470 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 22:06:20,944 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 22:06:20,950 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-13 22:06:21,032 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.004s]
+2024-08-13 22:06:21,033 - INFO - ======== elasticsearch output ==========:
+
+1. *máy giặt aqua 9 kg aqw-f91gt.s - Mã: M&EGD000250
+  Thông số sản phẩm: • loại máy giặt: cửa trên
+• lồng giặt: lồng đứng
+• khối lượng giặt: 9 kg 
+• số người sử dụng: từ 3 - 5 người
+• kiểu động cơ: truyền động gián tiếp (dây curoa)
+• tốc độ quay vắt tối đa: 700 vòng/phút
+• chất liệu lồng giặt: thép không gỉ
+• chất liệu vỏ máy: kim loại sơn tĩnh điện
+• chất liệu nắp máy: kính chịu lực
+• hiệu suất sử dụng điện: 10.9 wh/kg
+• chương trình giặt: chăn mền, vắt cực khô, giặt mạnh, giặt ngâm, giặt nhanh, giặt nhẹ, giặt thơm, giặt tiêu chuẩn
+• công nghệ giặt: diệt khuẩn khử mùi nano ag+ giặt nhiều luồng nước phun multijet
+• bảng điều khiển: song ngữ anh - việt
+• tiện ích: hẹn giờ giặt, khóa trẻ em, van sử dụng mực nước thấp, vệ sinh lồng giặt
+• kích thước, khối lượng: cao 100.6 cm - ngang 53.3 cm - sâu 58 cm - nặng 36 kg
+• chiều dài ống cấp nước: 128 cm
+• chiều dài ống thoát nước: 77 cm
+ - Giá tiền: 4,890,000 đ*
+
+2. *máy giặt electrolux ultimatecare 500 inverter ewf1024p5sb - Mã: 128004000003
+  Thông số sản phẩm: loại máy giặt: cửa trước 
+lồng giặt: lồng ngang
+khối lượng giặt: 10 kg
+số người sử dụng: từ 5 - 7 người 
+kiểu động cơ: truyền động gián tiếp (dây curoa)
+tốc độ quay vắt tối đa: 1200 vòng/phút
+chất liệu lồng giặt: thép không gỉ
+chất liệu vỏ máy: kim loại sơn tĩnh điện
+chất liệu nắp máy: nhựa + kính cường lực, thép
+sản xuất tại: thái lan
+thời gian bảo hành động cơ: 10 năm
+hiệu suất sử dụng điện: 16.5 wh/kg
+loại inverter: công nghệ ecoinverterchương trình giặt: chế độ yêu thích, giặt 60 phút, đồ trải giường, giặt nhanh 15 phút, giặt nhanh 39 phút, giặt tiết kiệm, vắt, vệ sinh lồng giặt, xả + vắt, đồ cotton, đồ hỗn hợp, đồ len, đồ mỏng, đồ thể thao, đồ trẻ em
+công nghệ giặt: công nghệ giặt hơi nước hygienic carecông nghệ ultramix hoà tan nước giặt hiệu quả
+bảng điều khiển: song ngữ anh - việt có nút xoay, cảm ứng và màn hình hiển thịtiện ích: chỉnh nhiệt độ nước, chỉnh số vòng vắt, khóa trẻ em, lưu chương trình yêu thích, quản lý thời gian, thêm quần áo khi máy đang giặt, trì hoãn kết thúc, xả thêm, chế độ giặt sơ tự động
+kích thước, khối lượng: cao 85 cm - ngang 60 cm - sâu 65.5 cm - nặng 76 kg
+chiều dài ống cấp nước: 134 cmchiều dài ống thoát nước: 209 cm
+ - Giá tiền: 10,516,000 đ*
+
+3. *máy giặt aqua cửa trên - 10kg aqw-u100ft.bk - Mã: 128003000002
+  Thông số sản phẩm: loại máy giặt: lồng đứng
+động cơ : curoa
+khối lượng giặt: 10 kg
+lồng giặtthép không gỉ
+khử mùi diệt khuẩn
+khóa trẻ em
+màn hình hiển thị thời gian
+nắp máynắp kính cường lực tràn viền
+dòng điện : 220v/50hz
+tốc độ vắt: 700 vòng/phút
+kích thước (r*s*c)560 x 630 x 1006
+trọng lượng: 36,5 kg
+sản xuất tại việt nam
+bảo hành: 24 tháng
+ - Giá tiền: 5,158,000 đ*
+
+4. *máy giặt aqua cửa trên - 8kg aqw-ks80gt.s - Mã: 128003000001
+  Thông số sản phẩm: cửa trên - lồng đứng
+khối lượng giặt: 8 kg
+kiểu động cơ: truyền động gián tiếp (dây curoa)
+tốc độ quay vắt tối đa: 775 vòng/ phút
+chất liệu lồng giặt: thép không gỉ
+chất liệu vỏ máy: kim loại sơn tĩnh điện
+chất liệu nắp máy: nhựa abs + kính
+thời gian bảo hành động cơ:2 năm
+hiệu suất sử dụng điện: 11.3 wh/kg
+mâm giặt kháng khuẩn abt
+bảng điều khiển: song ngữ anh - việt có nút nhấn
+khóa trẻ em
+tự khởi động lại khi có điện
+van sử dụng mực nước thấp
+cao 93 cm - ngang 52.7 cm - sâu 56.9 cm - nặng 30.1 kg
+ - Giá tiền: 4,013,000 đ*
+
+2024-08-13 22:06:21,034 - INFO - ==Conversation==
+2024-08-13 22:06:23,091 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 22:06:23,094 - INFO - +LLM out+:
+Tôi thấy có hai sản phẩm máy giặt có khối lượng giặt 10kg:
+
+1. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB - Mã: 128004000003
+  - Bảo hành động cơ: 10 năm
+  - Kích thước: cao 85 cm - ngang 60 cm - sâu 65.5 cm - nặng 76 kg
+  - Giá tiền: 10,516,000 đ
+
+2. Máy giặt Aqua cửa trên - 10kg Aqw-U100FT.BK - Mã: 128003000002
+  - Lồng giặt thép không gỉ
+  - Khóa trẻ em
+  - Màn hình hiển thị thời gian
+  - Nắp máy kính cường lực tràn viền
+  - Dòng điện: 220V/50Hz
+  - Tốc độ vắt: 700 vòng/phút
+  - Kích thước: 560 x 630 x 1006
+  - Trọng lượng: 36,5 kg
+  - Sản xuất tại Việt Nam
+  - Bảo hành: 24 tháng
+  - Giá tiền: 5,158,000 đ
+
+Bạn có thể tham khảo thêm thông tin và chọn sản phẩm phù hợp với nhu cầu của mình.
+2024-08-13 22:06:23,094 - INFO - =====LLM done!=====
+2024-08-13 22:06:23,096 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 22:06:23,104 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 22:06:23,104 - INFO - InputText: Tôi cần máy giặt nào có khối lượng giặt 10kg
+2024-08-13 22:06:23,104 - INFO - ---ChatText---
+2024-08-13 22:06:23,105 - INFO - =====rasa=====
+2024-08-13 22:06:23,693 - INFO - +rasa out+:
+LLM_predict
+2024-08-13 22:06:23,693 - INFO - ====rasa done!====
+2024-08-13 22:06:23,694 - INFO - =====LLM=====
+2024-08-13 22:06:24,797 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 22:06:25,906 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 22:06:25,912 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-13 22:06:25,991 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-13 22:06:25,992 - INFO - ======== elasticsearch output ==========:
+
+1. *máy giặt aqua 9 kg aqw-f91gt.s - Mã: M&EGD000250
+  Thông số sản phẩm: • loại máy giặt: cửa trên
+• lồng giặt: lồng đứng
+• khối lượng giặt: 9 kg 
+• số người sử dụng: từ 3 - 5 người
+• kiểu động cơ: truyền động gián tiếp (dây curoa)
+• tốc độ quay vắt tối đa: 700 vòng/phút
+• chất liệu lồng giặt: thép không gỉ
+• chất liệu vỏ máy: kim loại sơn tĩnh điện
+• chất liệu nắp máy: kính chịu lực
+• hiệu suất sử dụng điện: 10.9 wh/kg
+• chương trình giặt: chăn mền, vắt cực khô, giặt mạnh, giặt ngâm, giặt nhanh, giặt nhẹ, giặt thơm, giặt tiêu chuẩn
+• công nghệ giặt: diệt khuẩn khử mùi nano ag+ giặt nhiều luồng nước phun multijet
+• bảng điều khiển: song ngữ anh - việt
+• tiện ích: hẹn giờ giặt, khóa trẻ em, van sử dụng mực nước thấp, vệ sinh lồng giặt
+• kích thước, khối lượng: cao 100.6 cm - ngang 53.3 cm - sâu 58 cm - nặng 36 kg
+• chiều dài ống cấp nước: 128 cm
+• chiều dài ống thoát nước: 77 cm
+ - Giá tiền: 4,890,000 đ*
+
+2. *máy giặt electrolux ultimatecare 500 inverter ewf1024p5sb - Mã: 128004000003
+  Thông số sản phẩm: loại máy giặt: cửa trước 
+lồng giặt: lồng ngang
+khối lượng giặt: 10 kg
+số người sử dụng: từ 5 - 7 người 
+kiểu động cơ: truyền động gián tiếp (dây curoa)
+tốc độ quay vắt tối đa: 1200 vòng/phút
+chất liệu lồng giặt: thép không gỉ
+chất liệu vỏ máy: kim loại sơn tĩnh điện
+chất liệu nắp máy: nhựa + kính cường lực, thép
+sản xuất tại: thái lan
+thời gian bảo hành động cơ: 10 năm
+hiệu suất sử dụng điện: 16.5 wh/kg
+loại inverter: công nghệ ecoinverterchương trình giặt: chế độ yêu thích, giặt 60 phút, đồ trải giường, giặt nhanh 15 phút, giặt nhanh 39 phút, giặt tiết kiệm, vắt, vệ sinh lồng giặt, xả + vắt, đồ cotton, đồ hỗn hợp, đồ len, đồ mỏng, đồ thể thao, đồ trẻ em
+công nghệ giặt: công nghệ giặt hơi nước hygienic carecông nghệ ultramix hoà tan nước giặt hiệu quả
+bảng điều khiển: song ngữ anh - việt có nút xoay, cảm ứng và màn hình hiển thịtiện ích: chỉnh nhiệt độ nước, chỉnh số vòng vắt, khóa trẻ em, lưu chương trình yêu thích, quản lý thời gian, thêm quần áo khi máy đang giặt, trì hoãn kết thúc, xả thêm, chế độ giặt sơ tự động
+kích thước, khối lượng: cao 85 cm - ngang 60 cm - sâu 65.5 cm - nặng 76 kg
+chiều dài ống cấp nước: 134 cmchiều dài ống thoát nước: 209 cm
+ - Giá tiền: 10,516,000 đ*
+
+3. *máy giặt aqua cửa trên - 10kg aqw-u100ft.bk - Mã: 128003000002
+  Thông số sản phẩm: loại máy giặt: lồng đứng
+động cơ : curoa
+khối lượng giặt: 10 kg
+lồng giặtthép không gỉ
+khử mùi diệt khuẩn
+khóa trẻ em
+màn hình hiển thị thời gian
+nắp máynắp kính cường lực tràn viền
+dòng điện : 220v/50hz
+tốc độ vắt: 700 vòng/phút
+kích thước (r*s*c)560 x 630 x 1006
+trọng lượng: 36,5 kg
+sản xuất tại việt nam
+bảo hành: 24 tháng
+ - Giá tiền: 5,158,000 đ*
+
+4. *máy giặt aqua cửa trên - 8kg aqw-ks80gt.s - Mã: 128003000001
+  Thông số sản phẩm: cửa trên - lồng đứng
+khối lượng giặt: 8 kg
+kiểu động cơ: truyền động gián tiếp (dây curoa)
+tốc độ quay vắt tối đa: 775 vòng/ phút
+chất liệu lồng giặt: thép không gỉ
+chất liệu vỏ máy: kim loại sơn tĩnh điện
+chất liệu nắp máy: nhựa abs + kính
+thời gian bảo hành động cơ:2 năm
+hiệu suất sử dụng điện: 11.3 wh/kg
+mâm giặt kháng khuẩn abt
+bảng điều khiển: song ngữ anh - việt có nút nhấn
+khóa trẻ em
+tự khởi động lại khi có điện
+van sử dụng mực nước thấp
+cao 93 cm - ngang 52.7 cm - sâu 56.9 cm - nặng 30.1 kg
+ - Giá tiền: 4,013,000 đ*
+
+2024-08-13 22:06:25,993 - INFO - ==Conversation==
+2024-08-13 22:06:26,329 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-08-13 22:06:26,329 - INFO - Retrying request to /openai/v1/chat/completions in 9.000000 seconds
+2024-08-13 22:06:37,649 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 22:06:37,652 - INFO - +LLM out+:
+Tôi thấy có hai sản phẩm máy giặt có khối lượng giặt 10kg:
+
+1. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB - Mã: 128004000003
+  - Bảo hành động cơ: 10 năm
+  - Kích thước: cao 85 cm - ngang 60 cm - sâu 65.5 cm - nặng 76 kg
+  - Giá tiền: 10,516,000 đ
+
+2. Máy giặt Aqua cửa trên - 10kg Aqw-U100FT.BK - Mã: 128003000002
+  - Lồng giặt thép không gỉ
+  - Khóa trẻ em
+  - Màn hình hiển thị thời gian
+  - Nắp máy kính cường lực tràn viền
+  - Dòng điện: 220V/50Hz
+  - Tốc độ vắt: 700 vòng/phút
+  - Kích thước: 560 x 630 x 1006
+  - Trọng lượng: 36,5 kg
+  - Sản xuất tại Việt Nam
+  - Bảo hành: 24 tháng
+  - Giá tiền: 5,158,000 đ
+
+Bạn có thể tham khảo thêm thông tin và chọn sản phẩm phù hợp với nhu cầu của mình.
+2024-08-13 22:06:37,652 - INFO - =====LLM done!=====
+2024-08-13 22:06:37,654 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 22:06:37,657 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 22:06:37,657 - INFO - InputText: Tôi cần máy giặt nào có khối lượng giặt 10kg
+2024-08-13 22:06:37,657 - INFO - ---ChatText---
+2024-08-13 22:06:37,658 - INFO - =====rasa=====
+2024-08-13 22:06:38,925 - INFO - +rasa out+:
+LLM_predict
+2024-08-13 22:06:38,926 - INFO - ====rasa done!====
+2024-08-13 22:06:38,926 - INFO - =====LLM=====
+2024-08-13 22:06:40,052 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 22:06:41,329 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 22:06:41,335 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-13 22:06:41,414 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-13 22:06:41,415 - INFO - ======== elasticsearch output ==========:
+
+1. *máy giặt aqua 9 kg aqw-f91gt.s - Mã: M&EGD000250
+  Thông số sản phẩm: • loại máy giặt: cửa trên
+• lồng giặt: lồng đứng
+• khối lượng giặt: 9 kg 
+• số người sử dụng: từ 3 - 5 người
+• kiểu động cơ: truyền động gián tiếp (dây curoa)
+• tốc độ quay vắt tối đa: 700 vòng/phút
+• chất liệu lồng giặt: thép không gỉ
+• chất liệu vỏ máy: kim loại sơn tĩnh điện
+• chất liệu nắp máy: kính chịu lực
+• hiệu suất sử dụng điện: 10.9 wh/kg
+• chương trình giặt: chăn mền, vắt cực khô, giặt mạnh, giặt ngâm, giặt nhanh, giặt nhẹ, giặt thơm, giặt tiêu chuẩn
+• công nghệ giặt: diệt khuẩn khử mùi nano ag+ giặt nhiều luồng nước phun multijet
+• bảng điều khiển: song ngữ anh - việt
+• tiện ích: hẹn giờ giặt, khóa trẻ em, van sử dụng mực nước thấp, vệ sinh lồng giặt
+• kích thước, khối lượng: cao 100.6 cm - ngang 53.3 cm - sâu 58 cm - nặng 36 kg
+• chiều dài ống cấp nước: 128 cm
+• chiều dài ống thoát nước: 77 cm
+ - Giá tiền: 4,890,000 đ*
+
+2. *máy giặt electrolux ultimatecare 500 inverter ewf1024p5sb - Mã: 128004000003
+  Thông số sản phẩm: loại máy giặt: cửa trước 
+lồng giặt: lồng ngang
+khối lượng giặt: 10 kg
+số người sử dụng: từ 5 - 7 người 
+kiểu động cơ: truyền động gián tiếp (dây curoa)
+tốc độ quay vắt tối đa: 1200 vòng/phút
+chất liệu lồng giặt: thép không gỉ
+chất liệu vỏ máy: kim loại sơn tĩnh điện
+chất liệu nắp máy: nhựa + kính cường lực, thép
+sản xuất tại: thái lan
+thời gian bảo hành động cơ: 10 năm
+hiệu suất sử dụng điện: 16.5 wh/kg
+loại inverter: công nghệ ecoinverterchương trình giặt: chế độ yêu thích, giặt 60 phút, đồ trải giường, giặt nhanh 15 phút, giặt nhanh 39 phút, giặt tiết kiệm, vắt, vệ sinh lồng giặt, xả + vắt, đồ cotton, đồ hỗn hợp, đồ len, đồ mỏng, đồ thể thao, đồ trẻ em
+công nghệ giặt: công nghệ giặt hơi nước hygienic carecông nghệ ultramix hoà tan nước giặt hiệu quả
+bảng điều khiển: song ngữ anh - việt có nút xoay, cảm ứng và màn hình hiển thịtiện ích: chỉnh nhiệt độ nước, chỉnh số vòng vắt, khóa trẻ em, lưu chương trình yêu thích, quản lý thời gian, thêm quần áo khi máy đang giặt, trì hoãn kết thúc, xả thêm, chế độ giặt sơ tự động
+kích thước, khối lượng: cao 85 cm - ngang 60 cm - sâu 65.5 cm - nặng 76 kg
+chiều dài ống cấp nước: 134 cmchiều dài ống thoát nước: 209 cm
+ - Giá tiền: 10,516,000 đ*
+
+3. *máy giặt aqua cửa trên - 10kg aqw-u100ft.bk - Mã: 128003000002
+  Thông số sản phẩm: loại máy giặt: lồng đứng
+động cơ : curoa
+khối lượng giặt: 10 kg
+lồng giặtthép không gỉ
+khử mùi diệt khuẩn
+khóa trẻ em
+màn hình hiển thị thời gian
+nắp máynắp kính cường lực tràn viền
+dòng điện : 220v/50hz
+tốc độ vắt: 700 vòng/phút
+kích thước (r*s*c)560 x 630 x 1006
+trọng lượng: 36,5 kg
+sản xuất tại việt nam
+bảo hành: 24 tháng
+ - Giá tiền: 5,158,000 đ*
+
+4. *máy giặt aqua cửa trên - 8kg aqw-ks80gt.s - Mã: 128003000001
+  Thông số sản phẩm: cửa trên - lồng đứng
+khối lượng giặt: 8 kg
+kiểu động cơ: truyền động gián tiếp (dây curoa)
+tốc độ quay vắt tối đa: 775 vòng/ phút
+chất liệu lồng giặt: thép không gỉ
+chất liệu vỏ máy: kim loại sơn tĩnh điện
+chất liệu nắp máy: nhựa abs + kính
+thời gian bảo hành động cơ:2 năm
+hiệu suất sử dụng điện: 11.3 wh/kg
+mâm giặt kháng khuẩn abt
+bảng điều khiển: song ngữ anh - việt có nút nhấn
+khóa trẻ em
+tự khởi động lại khi có điện
+van sử dụng mực nước thấp
+cao 93 cm - ngang 52.7 cm - sâu 56.9 cm - nặng 30.1 kg
+ - Giá tiền: 4,013,000 đ*
+
+2024-08-13 22:06:41,417 - INFO - ==Conversation==
+2024-08-13 22:06:41,740 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-08-13 22:06:41,741 - INFO - Retrying request to /openai/v1/chat/completions in 22.000000 seconds
+2024-08-13 22:07:05,733 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 22:07:05,736 - INFO - +LLM out+:
+Tôi thấy có hai sản phẩm máy giặt có khối lượng giặt 10kg:
+
+1. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB - Mã: 128004000003
+  - Bảo hành động cơ: 10 năm
+  - Kích thước: cao 85 cm - ngang 60 cm - sâu 65.5 cm - nặng 76 kg
+  - Giá tiền: 10,516,000 đ
+
+2. Máy giặt Aqua cửa trên - 10kg Aqw-U100FT.BK - Mã: 128003000002
+  - Lồng giặt thép không gỉ
+  - Khóa trẻ em
+  - Màn hình hiển thị thời gian
+  - Nắp máy kính cường lực tràn viền
+  - Dòng điện: 220V/50Hz
+  - Tốc độ vắt: 700 vòng/phút
+  - Kích thước: 560 x 630 x 1006
+  - Trọng lượng: 36,5 kg
+  - Sản xuất tại Việt Nam
+  - Bảo hành: 24 tháng
+  - Giá tiền: 5,158,000 đ
+
+Bạn có thể tham khảo thêm thông tin và chọn sản phẩm phù hợp với nhu cầu của mình.
+2024-08-13 22:07:05,736 - INFO - =====LLM done!=====
+2024-08-13 22:07:05,739 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 22:08:10,587 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 22:08:10,588 - INFO - InputText: đèn nlmt
+2024-08-13 22:08:10,588 - INFO - ---ChatText---
+2024-08-13 22:08:10,589 - INFO - =====rasa=====
+2024-08-13 22:08:11,174 - INFO - +rasa out+:
+LLM_predict
+2024-08-13 22:08:11,175 - INFO - ====rasa done!====
+2024-08-13 22:08:11,176 - INFO - =====LLM=====
+2024-08-13 22:08:12,088 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 22:08:14,763 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 22:08:14,768 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-13 22:08:14,867 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-13 22:08:14,867 - INFO - ======== elasticsearch output ==========:
+
+1. *đèn nlmt ốp trần 300w - Mã: SMSMH000043
+  Thông số sản phẩm: • kích thước đèn: 320 x 320 mm
+• kích thước tấm pin: 360 x 530 mm
+• bảng năng lượng mặt trời: silic đa tinh thể led
+• công suất: 300w
+• thông quang ánh sáng: 1800 lm
+• chỉ số chống nước: ip67
+• pin :3.5v/22500mah
+• thời gian sạc pin: 5h - 8h
+• thời gian chiếu sáng: có thể liên tục 12-15h
+ - Giá tiền: 866,000 đ*
+
+2. *đèn nlmt xách tay 100w - Mã: SMSMH000067
+  Thông số sản phẩm: • công suất: 100w
+• kích thước tấm năng lượng mặt trời: 300*250 mm
+• tính năng đèn: kiểm soát ánh sáng + điều khiển đặt thời gian
+• chất liệu đèn: nhôm đúc chống oxy hóa + kính cường lực
+• dung lượng pin: 20.000mah pin lithium sắt phosphate
+• bố trí sản phẩm: dây chống nước 5m, điều khiển hẹn thời gian, ốc vít giãn nở
+• mức độ ánh sáng: sáng mạnh, sáng yếu
+• thời gian chiếu sáng :3h/5h/8h
+ - Giá tiền: 476,000 đ*
+
+3. *đèn nlmt xách tay 60w - Mã: SMSMH000066
+  Thông số sản phẩm: • công suất: 60w
+• kích thước tấm pin năng lượng mặt trời: 360mm*520mm*17mm
+• tính năng đèn: kiểm soát ánh sáng + điều khiển đặt thời gian
+• chất liệu đèn: nhôm đúc chống oxy hóa + kính cường lực
+• dung lượng pin :18000 mah pin lithium sắt phosphate
+• bố trí sản phẩm: dây chống nước 5m, điều khiển hẹn thời gian, ốc vít giãn nở
+• mức độ ánh sáng: sáng mạnh, sáng yếu
+• thời gian chiếu sáng: 3h/5h/8h
+• loại mắt led: 5630/180mắt led lumen: 2250
+ - Giá tiền: 402,000 đ*
+
+4. *đèn nlmt đĩa bay ufo 300w - Mã: SMSMH000065
+  Thông số sản phẩm: • công suất: 300w
+• kích thước panel: 420x420mm
+• dung lượng pin: 3.2v/25000mah
+• thời gian sạc: 4h-6h
+• thời gian chiếu sáng: 10h-12h
+• hệ số chống nước: ip66
+ - Giá tiền: 878,000 đ*
+
+2024-08-13 22:08:14,868 - INFO - ==Conversation==
+2024-08-13 22:08:15,796 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 22:08:15,799 - INFO - +LLM out+:
+Anh/chị muốn xem sản phẩm đèn NLMT nào? Có tầm giá bao nhiêu? Tôi sẽ giúp Anh/chị tìm kiếm. Cảm ơn Anh/chị.
+2024-08-13 22:08:15,799 - INFO - =====LLM done!=====
+2024-08-13 22:08:15,801 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 22:08:31,858 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 22:08:31,858 - INFO - InputText: 300w
+2024-08-13 22:08:31,858 - INFO - ---ChatText---
+2024-08-13 22:08:31,858 - INFO - =====rasa=====
+2024-08-13 22:08:32,445 - INFO - +rasa out+:
+LLM_predict
+2024-08-13 22:08:32,445 - INFO - ====rasa done!====
+2024-08-13 22:08:32,446 - INFO - =====LLM=====
+2024-08-13 22:08:33,317 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 22:08:34,900 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 22:08:34,902 - INFO - ==Conversation2==
+2024-08-13 22:08:36,797 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-13 22:08:36,800 - INFO - +LLM out+:
+Tôi thấy có một sản phẩm đèn NLMT 300w:
+
+1. Đèn NLMT ốp trần 300w - Mã: SMSMH000043
+  • Kích thước đèn: 320 x 320 mm
+  • Kích thước tấm pin: 360 x 530 mm
+  • Bảng năng lượng mặt trời: silic đa tinh thể led
+  • Công suất: 300w
+  • Thông quang ánh sáng: 1800 lm
+  • Chỉ số chống nước: ip67
+  • Pin :3.5v/22500mah
+  • Thời gian sạc pin: 5h - 8h
+  • Thời gian chiếu sáng: có thể liên tục 12-15h
+  - Giá tiền: 866,000 đ
+
+2. Đèn NLMT đĩa bay UFO 300w - Mã: SMSMH000065
+  • Công suất: 300w
+  • Kích thước panel: 420x420mm
+  • Dung lượng pin: 3.2v/25000mah
+  • Thời gian sạc: 4h-6h
+  • Thời gian chiếu sáng: 10h-12h
+  • Hệ số chống nước: ip66
+  - Giá tiền: 878,000 đ
+
+Bạn có thể tham khảo thêm thông tin và chọn sản phẩm phù hợp với nhu cầu của mình.
+2024-08-13 22:08:36,800 - INFO - =====LLM done!=====
+2024-08-13 22:08:36,802 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 07:24:25,974 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 07:24:25,975 - INFO - InputText: Tôi cần máy giặt nào có khối lượng giặt 10kg
+2024-08-14 07:24:25,975 - INFO - ---ChatText---
+2024-08-14 07:24:25,975 - INFO - =====rasa=====
+2024-08-14 07:24:26,387 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 07:24:26,387 - INFO - ====rasa done!====
+2024-08-14 07:24:26,387 - INFO - =====LLM=====
+2024-08-14 07:24:27,488 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 07:24:28,728 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 07:24:28,733 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.003s]
+2024-08-14 07:24:28,820 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.011s]
+2024-08-14 07:24:28,821 - INFO - ======== elasticsearch output ==========:
+
+1. *máy giặt aqua 9 kg aqw-f91gt.s - Mã: M&EGD000250
+  Thông số sản phẩm: • loại máy giặt: cửa trên
+• lồng giặt: lồng đứng
+• khối lượng giặt: 9 kg 
+• số người sử dụng: từ 3 - 5 người
+• kiểu động cơ: truyền động gián tiếp (dây curoa)
+• tốc độ quay vắt tối đa: 700 vòng/phút
+• chất liệu lồng giặt: thép không gỉ
+• chất liệu vỏ máy: kim loại sơn tĩnh điện
+• chất liệu nắp máy: kính chịu lực
+• hiệu suất sử dụng điện: 10.9 wh/kg
+• chương trình giặt: chăn mền, vắt cực khô, giặt mạnh, giặt ngâm, giặt nhanh, giặt nhẹ, giặt thơm, giặt tiêu chuẩn
+• công nghệ giặt: diệt khuẩn khử mùi nano ag+ giặt nhiều luồng nước phun multijet
+• bảng điều khiển: song ngữ anh - việt
+• tiện ích: hẹn giờ giặt, khóa trẻ em, van sử dụng mực nước thấp, vệ sinh lồng giặt
+• kích thước, khối lượng: cao 100.6 cm - ngang 53.3 cm - sâu 58 cm - nặng 36 kg
+• chiều dài ống cấp nước: 128 cm
+• chiều dài ống thoát nước: 77 cm
+ - Giá tiền: 4,890,000 đ*
+
+2. *máy giặt electrolux ultimatecare 500 inverter ewf1024p5sb - Mã: 128004000003
+  Thông số sản phẩm: loại máy giặt: cửa trước 
+lồng giặt: lồng ngang
+khối lượng giặt: 10 kg
+số người sử dụng: từ 5 - 7 người 
+kiểu động cơ: truyền động gián tiếp (dây curoa)
+tốc độ quay vắt tối đa: 1200 vòng/phút
+chất liệu lồng giặt: thép không gỉ
+chất liệu vỏ máy: kim loại sơn tĩnh điện
+chất liệu nắp máy: nhựa + kính cường lực, thép
+sản xuất tại: thái lan
+thời gian bảo hành động cơ: 10 năm
+hiệu suất sử dụng điện: 16.5 wh/kg
+loại inverter: công nghệ ecoinverterchương trình giặt: chế độ yêu thích, giặt 60 phút, đồ trải giường, giặt nhanh 15 phút, giặt nhanh 39 phút, giặt tiết kiệm, vắt, vệ sinh lồng giặt, xả + vắt, đồ cotton, đồ hỗn hợp, đồ len, đồ mỏng, đồ thể thao, đồ trẻ em
+công nghệ giặt: công nghệ giặt hơi nước hygienic carecông nghệ ultramix hoà tan nước giặt hiệu quả
+bảng điều khiển: song ngữ anh - việt có nút xoay, cảm ứng và màn hình hiển thịtiện ích: chỉnh nhiệt độ nước, chỉnh số vòng vắt, khóa trẻ em, lưu chương trình yêu thích, quản lý thời gian, thêm quần áo khi máy đang giặt, trì hoãn kết thúc, xả thêm, chế độ giặt sơ tự động
+kích thước, khối lượng: cao 85 cm - ngang 60 cm - sâu 65.5 cm - nặng 76 kg
+chiều dài ống cấp nước: 134 cmchiều dài ống thoát nước: 209 cm
+ - Giá tiền: 10,516,000 đ*
+
+3. *máy giặt aqua cửa trên - 10kg aqw-u100ft.bk - Mã: 128003000002
+  Thông số sản phẩm: loại máy giặt: lồng đứng
+động cơ : curoa
+khối lượng giặt: 10 kg
+lồng giặtthép không gỉ
+khử mùi diệt khuẩn
+khóa trẻ em
+màn hình hiển thị thời gian
+nắp máynắp kính cường lực tràn viền
+dòng điện : 220v/50hz
+tốc độ vắt: 700 vòng/phút
+kích thước (r*s*c)560 x 630 x 1006
+trọng lượng: 36,5 kg
+sản xuất tại việt nam
+bảo hành: 24 tháng
+ - Giá tiền: 5,158,000 đ*
+
+4. *máy giặt aqua cửa trên - 8kg aqw-ks80gt.s - Mã: 128003000001
+  Thông số sản phẩm: cửa trên - lồng đứng
+khối lượng giặt: 8 kg
+kiểu động cơ: truyền động gián tiếp (dây curoa)
+tốc độ quay vắt tối đa: 775 vòng/ phút
+chất liệu lồng giặt: thép không gỉ
+chất liệu vỏ máy: kim loại sơn tĩnh điện
+chất liệu nắp máy: nhựa abs + kính
+thời gian bảo hành động cơ:2 năm
+hiệu suất sử dụng điện: 11.3 wh/kg
+mâm giặt kháng khuẩn abt
+bảng điều khiển: song ngữ anh - việt có nút nhấn
+khóa trẻ em
+tự khởi động lại khi có điện
+van sử dụng mực nước thấp
+cao 93 cm - ngang 52.7 cm - sâu 56.9 cm - nặng 30.1 kg
+ - Giá tiền: 4,013,000 đ*
+
+2024-08-14 07:24:28,821 - INFO - ==Conversation==
+2024-08-14 07:24:30,292 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 07:24:30,295 - INFO - +LLM out+:
+Tôi thấy có hai sản phẩm máy giặt có khối lượng giặt 10kg:
+
+1. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB - Mã: 128004000003
+  - Bảo hành động cơ: 10 năm
+  - Kích thước: cao 85 cm - ngang 60 cm - sâu 65.5 cm - nặng 76 kg
+  - Giá tiền: 10,516,000 đ
+
+2. Máy giặt Aqua cửa trên - 10kg Aqw-U100FT.BK - Mã: 128003000002
+  - Lồng giặt thép không gỉ
+  - Khóa trẻ em
+  - Màn hình hiển thị thời gian
+  - Nắp máy kính cường lực tràn viền
+  - Dòng điện: 220V/50Hz
+  - Tốc độ vắt: 700 vòng/phút
+  - Kích thước: 560 x 630 x 1006
+  - Trọng lượng: 36,5 kg
+  - Sản xuất tại Việt Nam
+  - Bảo hành: 24 tháng
+  - Giá tiền: 5,158,000 đ
+
+Bạn có thể tham khảo thêm thông tin và chọn sản phẩm phù hợp với nhu cầu của mình.
+2024-08-14 07:24:30,295 - INFO - =====LLM done!=====
+2024-08-14 07:24:30,297 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 07:25:16,354 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 07:25:16,355 - INFO - InputText: hc23
+2024-08-14 07:25:16,355 - INFO - ---ChatText---
+2024-08-14 07:25:16,355 - INFO - =====rasa=====
+2024-08-14 07:25:17,320 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 07:25:17,321 - INFO - ====rasa done!====
+2024-08-14 07:25:17,321 - INFO - =====LLM=====
+2024-08-14 07:25:18,127 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 07:25:19,119 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 07:25:19,125 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 07:25:19,175 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 07:25:19,176 - INFO - ======== elasticsearch output ==========:
+
+1. *camera trong nhà hc23 - Mã: ITCAM000071
+  Thông số sản phẩm: độ phân giải full hd 2mpx (1920 x 1080)
+hỗ trợ hồng ngoại lên tới khoảng cách 10m
+tính năng đàm thoại 02 chiều (02 way talking)
+tự động xoay 360 độ, bám theo mọi chuyển động.
+hình ảnh sắc nét, công nghệ nén hình ảnh theo chuẩn h.265
+gọi điện khẩn cấp sos từ camera lên ứng dụng viettel home
+công nghệ ai thông minh phân biệt giữa người và vật, giảm cảnh báo giả.
+cài đặt camera báo động bằng nhiều âm thanh khác nhau khi phát hiện người, chuyển động.
+bảo hành:12 tháng tại các cửa hàng viettel
+ - Giá tiền: 547,000 đ*
+
+2024-08-14 07:25:19,176 - INFO - ==Conversation==
+2024-08-14 07:25:20,314 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 07:25:20,317 - INFO - +LLM out+:
+Camera trong nhà HC23 - Mã: ITCAM000071
+  • Thông số sản phẩm: độ phân giải full hd 2mpx (1920 x 1080)
+  • Hỗ trợ hồng ngoại lên tới khoảng cách 10m
+  • Tính năng đàm thoại 02 chiều (02 way talking)
+  • Tự động xoay 360 độ, bám theo mọi chuyển động.
+  • Hình ảnh sắc nét, công nghệ nén hình ảnh theo chuẩn h.265
+  • Gọi điện khẩn cấp sos từ camera lên ứng dụng viettel home
+  • Công nghệ ai thông minh phân biệt giữa người và vật, giảm cảnh báo giả.
+  • Cài đặt camera báo động bằng nhiều âm thanh khác nhau khi phát hiện người, chuyển động.
+  • Bảo hành: 12 tháng tại các cửa hàng viettel
+  - Giá tiền: 547,000 đ
+2024-08-14 07:25:20,317 - INFO - =====LLM done!=====
+2024-08-14 07:25:20,319 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 07:33:20,033 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 07:33:20,033 - INFO - InputText: Bạn muốn tra cứu hàng tồn kho?
+2024-08-14 07:33:20,033 - INFO - ---ChatText---
+2024-08-14 07:33:20,034 - INFO - =====rasa=====
+2024-08-14 07:33:20,100 - INFO - +rasa out+:
+Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:
+2024-08-14 07:33:20,100 - INFO - ====rasa done!====
+2024-08-14 07:33:20,102 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 07:33:56,250 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 07:33:56,250 - INFO - InputText: None
+2024-08-14 07:33:56,252 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 07:34:04,058 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 07:34:04,058 - INFO - InputText: Bạn muốn tra cứu hàng tồn kho?
+2024-08-14 07:34:04,058 - INFO - ---ChatText---
+2024-08-14 07:34:04,058 - INFO - =====rasa=====
+2024-08-14 07:34:04,124 - INFO - +rasa out+:
+Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:
+2024-08-14 07:34:04,124 - INFO - ====rasa done!====
+2024-08-14 07:34:04,126 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 07:44:11,099 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 07:44:11,100 - INFO - InputText: Bạn muốn tra cứu hàng tồn kho?
+2024-08-14 07:44:11,100 - INFO - ---ChatText---
+2024-08-14 07:44:11,100 - INFO - =====rasa=====
+2024-08-14 07:44:11,167 - INFO - +rasa out+:
+Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:
+2024-08-14 07:44:11,167 - INFO - ====rasa done!====
+2024-08-14 07:44:11,169 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 07:44:48,234 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 07:44:48,234 - INFO - InputText: None
+2024-08-14 07:44:48,234 - INFO - ---Inventory---
+2024-08-14 07:44:48,662 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 07:45:06,608 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 07:45:06,608 - INFO - InputText: None
+2024-08-14 07:45:06,608 - INFO - ---Inventory---
+2024-08-14 07:45:06,960 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 07:52:56,124 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 07:52:56,124 - INFO - InputText: None
+2024-08-14 07:52:56,126 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 07:53:22,363 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 07:53:22,363 - INFO - InputText: None
+2024-08-14 07:53:22,363 - INFO - ---Inventory---
+2024-08-14 07:53:23,024 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 07:57:38,898 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 07:57:38,898 - INFO - InputText: Bạn muốn tra cứu hàng tồn kho?
+2024-08-14 07:57:38,899 - INFO - ---ChatText---
+2024-08-14 07:57:38,899 - INFO - =====rasa=====
+2024-08-14 07:57:38,970 - INFO - +rasa out+:
+Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:
+2024-08-14 07:57:38,970 - INFO - ====rasa done!====
+2024-08-14 07:57:38,972 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 08:02:20,882 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 08:02:20,882 - INFO - InputText: None
+2024-08-14 08:02:20,884 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 08:02:38,273 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 08:02:38,273 - INFO - InputText: điều hòa mdv
+2024-08-14 08:02:38,273 - INFO - ---ChatText---
+2024-08-14 08:02:38,273 - INFO - =====rasa=====
+2024-08-14 08:02:38,309 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 08:02:38,309 - INFO - ====rasa done!====
+2024-08-14 08:02:38,309 - INFO - =====LLM=====
+2024-08-14 08:02:39,141 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:02:40,218 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:02:40,224 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.003s]
+2024-08-14 08:02:40,366 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.005s]
+2024-08-14 08:02:40,367 - INFO - ======== elasticsearch output ==========:
+
+1. *điều hòa mdv - inverter 9000 btu - Mã: 019013000001
+  Thông số sản phẩm: nguồn điện: 220-240v
+công suất: 9500 btu/h
+công suất tiêu thụ: 745 w
+cường độ dòng điện: 3.4 a
+err: 3.54 w/w
+inverter : có
+kích thước máy trong ( dxrxc): 726x210x291 (mm)
+khối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 kg
+kích thước máy ngoài (dxrxc): 835x300x540 (mm)
+khối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg
+loại gas/ khối lượng nạp: r32/0.38
+ap suất thiết kế: 4.3/1.7 mpa
+chiều dài đường ống tối đa: 25m
+chênh lệch độ cao tối đa: 10m
+phạm vi lành lạnh hiệu quả : 12~18 m2
+hiệu suất năng lượng : 4.48 cspf
+bảo hành 3 năm cho sản phẩm
+bảo hành 5 năm cho máy nén
+suất xứ : thái lan
+ - Giá tiền: 6,014,184 đ*
+
+2. *điều hòa mdv 1 chiều 12000 btu - model 2023 - Mã: 019013000004
+  Thông số sản phẩm: model: mdvg-13crdn8
+công suất: 12.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 15 - 20m²
+gas: r32
+mức tiêu thụ điện: 1.15 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 810 x 285 x 210 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 14 kg
+trọng lượng dàn nóng: 25 kg
+ - Giá tiền: 7,246,030 đ*
+
+3. *điều hòa mdv 1 chiều inverter 18000 btu - model 2023 - Mã: 019013000003
+  Thông số sản phẩm: model: mdvg-18crdn8
+công suất: 18.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 20 - 30m²
+gas: r32
+mức tiêu thụ điện: 1.65 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 969 x 320 x 241 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 18 kg
+trọng lượng dàn nóng: 28 kg
+ - Giá tiền: 11,740,520 đ*
+
+4. *quạt điều hòa không khí everest 6000d - Mã: M&EGD000154
+  Thông số sản phẩm: • điện áp: 220v - 50hz
+• kích thước: (dài) 440 x (rộng) 340 x (cao) 970 mm
+• lưu lượng gió: 6000m3/h
+• dung tích khay chứa nước: 45l
+• công suất: 80w
+• điều khiển từ xa: có
+• cảm biến chất lượng không khí: có
+• chức năng tạo ion: có
+• tốc độ gió: 3 tốc độ
+• hướng gió: 4 chiều trái phải, lên xuống
+ - Giá tiền: 2,427,000 đ*
+
+2024-08-14 08:02:40,367 - INFO - ==Conversation==
+2024-08-14 08:02:41,168 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:02:41,170 - INFO - +LLM out+:
+Anh/chị muốn xem điều hòa nào? Có tầm giá bao nhiêu? Tôi sẽ giúp Anh/chị tìm kiếm. Cảm ơn Anh/chị
+2024-08-14 08:02:41,170 - INFO - =====LLM done!=====
+2024-08-14 08:02:41,172 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 08:03:15,106 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 08:03:15,107 - INFO - InputText: đèn năng lượng
+2024-08-14 08:03:15,107 - INFO - ---ChatText---
+2024-08-14 08:03:15,107 - INFO - =====rasa=====
+2024-08-14 08:03:15,142 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 08:03:15,143 - INFO - ====rasa done!====
+2024-08-14 08:03:15,143 - INFO - =====LLM=====
+2024-08-14 08:03:15,996 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:03:17,135 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:03:17,140 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 08:03:17,243 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.004s]
+2024-08-14 08:03:17,244 - INFO - ======== elasticsearch output ==========:
+
+1. *đèn trụ cổng năng lượng mặt trời. - Mã: SMDEN000033
+  Thông số sản phẩm: • công suất định mức: 5w
+• nhiệt độ làm việc: -20c ~ 65c
+• nhiệt độ màu: 6500k
+• tuổi thọ bóng đèn led: 50.000 giờ
+• chế độ điều khiển: tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời sáng.
+• lớp chống thấm nước: ip-65• thời gian chiếu sáng: 10-12h liên tục
+• pin: 8.000mah li-pin
+• kích thước đèn vuông: 19.5 x 19.5 x 17 cm(dxrxc), chân đế: 11x11 cm
+• kích thước đèn tròn: 20.5 x 20.5 x 16.5 cm(dxrxc), chân đế: 11x11 cm• cân nặng: 0.95kg
+ - Giá tiền: 869,000 đ*
+
+2. *bộ đèn led năng lượng mặt trời sv05 - Mã: SMDEN000027
+  Thông số sản phẩm: công suất định mức: 90w
+bảng điều khiển năng lượng mặt trời: polycrystal 6v/15w
+nhiệt độ làm việc: -20c ~ 65c
+nhiệt độ mầu: 6500k
+tuổi thọ bóng đèn led: 50.000 giờ
+chế độ điều khiển: tích hợp bộ cảm biến ánh sang, tự động bật đèn khi trời tối, tắt đèn khi trời sáng
+lớp chống thấm nước: ip-65
+thời gian chiếu sáng: 28-30h liên tục
+pin: 30.000mah lifepo4
+mầu sắc: đen
+kích thước: 42 x 42 x 12.5 cm (dxrxc)
+cân nặng: 3kg
+ - Giá tiền: 1,401,000 đ*
+
+3. *đèn đường năng lượng mặt trời suntek s6 - Mã: SMDMT000001
+  Thông số sản phẩm: công suất định mức: 135w
+bảng điều khiển năng lượng mặt trời: polycrystal 6v/45w
+nhiệt độ làm việc: -20c ~ 65c
+chế độ điều khiển: tích hợp bộ cảm biến ánh sang, tự động bật đèn khi trời tối, tắt đèn khi trời sang + có điều khiển từ xa.
+lớp chống thấm nước: ip-65
+chống sét tvs
+thời gian chiếu sáng: 30-32h liên tục
+pin: 3.2v/60.000mah lifepo4
+kích thước đèn:  24 x 8 x 57cm(dxrxc)
+kích thước tấm năng lượng mặt trời: 67 x 2.5 x 44.5cm (dxrxc)
+trọng lượng: 8kg
+ - Giá tiền: 2,339,000 đ*
+
+4. *bộ đèn led năng lượng mặt trời sv06 - Mã: SMDEN000028
+  Thông số sản phẩm: công suất định mức: 150w
+bảng điều khiển năng lượng mặt trời: polycrystal 6v/25w
+nhiệt độ làm việc: -20c ~ 65c
+nhiệt độ mầu: 6500k
+tuổi thọ bóng đèn led: 50.000 giờ
+chế độ điều khiển: tích hợp bộ cảm biến ánh sang, tự động bật đèn khi trời tối, tắt đèn khi trời sáng
+lớp chống thấm nước: ip-65
+thời gian chiếu sáng: 28-30h liên tục
+pin: 48.000mah lifepo4
+mầu sắc: đen
+kích thước: 55 x 55 x 12.5 cm (dxrxc)
+cân nặng: 4.8kg
+ - Giá tiền: 1,660,000 đ*
+
+2024-08-14 08:03:17,245 - INFO - ==Conversation==
+2024-08-14 08:03:19,515 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:03:19,517 - INFO - +LLM out+:
+Xin chào, dựa trên thông tin tôi đã tìm thấy, tôi cung cấp cho bạn một số thông tin tham khảo:
+
+1. Đèn trụ cổng năng lượng mặt trời. - Mã: SMDEN000033
+  - Công suất định mức: 5w
+  - Nhiệt độ làm việc: -20c ~ 65c
+  - Nhiệt độ màu: 6500k
+  - Tuổi thọ bóng đèn led: 50.000 giờ
+  - Chế độ điều khiển: tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời sáng.
+  - Lớp chống thấm nước: ip-65
+  - Thời gian chiếu sáng: 10-12h liên tục
+  - Pin: 8.000mah li-pin
+  - Kích thước đèn vuông: 19.5 x 19.5 x 17 cm(dxrxc), chân đế: 11x11 cm
+  - Kích thước đèn tròn: 20.5 x 20.5 x 16.5 cm(dxrxc), chân đế: 11x11 cm
+  - Cân nặng: 0.95kg
+  - Giá tiền: 869,000 đ
+
+2. Bộ đèn led năng lượng mặt trời sv05 - Mã: SMDEN000027
+  - Công suất định mức: 90w
+  - Bảng điều khiển năng lượng mặt trời: polycrystal 6v/15w
+  - Nhiệt độ làm việc: -20c ~ 65c
+  - Nhiệt độ màu: 6500k
+  - Tuổi thọ bóng đèn led: 50.000 giờ
+  - Chế độ điều khiển: tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời sáng
+  - Lớp chống thấm nước: ip-65
+  - Thời gian chiếu sáng: 28-30h liên tục
+  - Pin: 30.000mah lifepo4
+  - Màu sắc: đen
+  - Kích thước: 42 x 42 x 12.5 cm (dxrxc)
+  - Cân nặng: 3kg
+  - Giá tiền: 1,401,000 đ
+
+Nếu bạn cần thêm thông tin chi tiết về từng sản phẩm, hãy cho tôi biết!!
+2024-08-14 08:03:19,518 - INFO - =====LLM done!=====
+2024-08-14 08:03:19,520 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 08:13:28,628 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 08:13:28,628 - INFO - InputText: điều hòa
+2024-08-14 08:13:28,628 - INFO - ---ChatText---
+2024-08-14 08:13:28,628 - INFO - =====rasa=====
+2024-08-14 08:13:28,681 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 08:13:28,681 - INFO - ====rasa done!====
+2024-08-14 08:13:28,682 - INFO - =====LLM=====
+2024-08-14 08:13:29,495 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:13:30,507 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:13:30,512 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 08:13:30,615 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.011s]
+2024-08-14 08:13:30,615 - INFO - ======== elasticsearch output ==========:
+
+1. *điều hòa mdv - inverter 9000 btu - Mã: 019013000001
+  Thông số sản phẩm: nguồn điện: 220-240v
+công suất: 9500 btu/h
+công suất tiêu thụ: 745 w
+cường độ dòng điện: 3.4 a
+err: 3.54 w/w
+inverter : có
+kích thước máy trong ( dxrxc): 726x210x291 (mm)
+khối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 kg
+kích thước máy ngoài (dxrxc): 835x300x540 (mm)
+khối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg
+loại gas/ khối lượng nạp: r32/0.38
+ap suất thiết kế: 4.3/1.7 mpa
+chiều dài đường ống tối đa: 25m
+chênh lệch độ cao tối đa: 10m
+phạm vi lành lạnh hiệu quả : 12~18 m2
+hiệu suất năng lượng : 4.48 cspf
+bảo hành 3 năm cho sản phẩm
+bảo hành 5 năm cho máy nén
+suất xứ : thái lan
+ - Giá tiền: 6,014,184 đ*
+
+2. *quạt điều hòa không khí everest 6000d - Mã: M&EGD000154
+  Thông số sản phẩm: • điện áp: 220v - 50hz
+• kích thước: (dài) 440 x (rộng) 340 x (cao) 970 mm
+• lưu lượng gió: 6000m3/h
+• dung tích khay chứa nước: 45l
+• công suất: 80w
+• điều khiển từ xa: có
+• cảm biến chất lượng không khí: có
+• chức năng tạo ion: có
+• tốc độ gió: 3 tốc độ
+• hướng gió: 4 chiều trái phải, lên xuống
+ - Giá tiền: 2,427,000 đ*
+
+3. *điều hòa mdv 1 chiều 12000 btu - model 2023 - Mã: 019013000004
+  Thông số sản phẩm: model: mdvg-13crdn8
+công suất: 12.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 15 - 20m²
+gas: r32
+mức tiêu thụ điện: 1.15 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 810 x 285 x 210 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 14 kg
+trọng lượng dàn nóng: 25 kg
+ - Giá tiền: 7,246,030 đ*
+
+4. *điều hòa mdv 1 chiều inverter 18000 btu - model 2023 - Mã: 019013000003
+  Thông số sản phẩm: model: mdvg-18crdn8
+công suất: 18.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 20 - 30m²
+gas: r32
+mức tiêu thụ điện: 1.65 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 969 x 320 x 241 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 18 kg
+trọng lượng dàn nóng: 28 kg
+ - Giá tiền: 11,740,520 đ*
+
+2024-08-14 08:13:30,616 - INFO - ==Conversation==
+2024-08-14 08:13:32,234 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:13:32,237 - INFO - +LLM out+:
+Xin chào, dựa trên thông tin tôi đã tìm thấy, tôi cung cấp cho bạn một số thông tin tham khảo:
+
+1. Điều hòa MDV - Mã: 019013000001
+  - Công suất: 9500 btu/h
+  - Bảo hành: 3 năm cho sản phẩm, 5 năm cho máy nén
+  - Kích thước dàn lạnh: 726x210x291 (mm)
+  - Kích thước dàn nóng: 835x300x540 (mm)
+  - Suất xứ: Thái Lan
+  - Giá tiền: 6,014,184 đ
+
+2. Điều hòa MDV 1 chiều 12000 btu - Model 2023 - Mã: 019013000004
+  - Công suất: 12.000 btu/h
+  - Diện tích sử dụng: 15 - 20m²
+  - Mức tiêu thụ điện: 1.15 kw/h
+  - Kích thước dàn lạnh: 810 x 285 x 210 mm
+  - Kích thước dàn nóng: 770 x 285 x 540 mm
+  - Trọng lượng dàn lạnh: 14 kg
+  - Trọng lượng dàn nóng: 25 kg
+  - Giá tiền: 7,246,030 đ
+
+Nếu bạn cần thêm thông tin chi tiết về từng sản phẩm, hãy cho tôi biết!!
+2024-08-14 08:13:32,237 - INFO - =====LLM done!=====
+2024-08-14 08:13:32,239 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 08:13:32,242 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 08:13:32,242 - INFO - InputText: điều hòa
+2024-08-14 08:13:32,242 - INFO - ---ChatText---
+2024-08-14 08:13:32,242 - INFO - =====rasa=====
+2024-08-14 08:13:32,283 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 08:13:32,284 - INFO - ====rasa done!====
+2024-08-14 08:13:32,284 - INFO - =====LLM=====
+2024-08-14 08:13:33,098 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:13:33,970 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:13:33,975 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 08:13:34,067 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 08:13:34,068 - INFO - ======== elasticsearch output ==========:
+
+1. *điều hòa mdv - inverter 9000 btu - Mã: 019013000001
+  Thông số sản phẩm: nguồn điện: 220-240v
+công suất: 9500 btu/h
+công suất tiêu thụ: 745 w
+cường độ dòng điện: 3.4 a
+err: 3.54 w/w
+inverter : có
+kích thước máy trong ( dxrxc): 726x210x291 (mm)
+khối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 kg
+kích thước máy ngoài (dxrxc): 835x300x540 (mm)
+khối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg
+loại gas/ khối lượng nạp: r32/0.38
+ap suất thiết kế: 4.3/1.7 mpa
+chiều dài đường ống tối đa: 25m
+chênh lệch độ cao tối đa: 10m
+phạm vi lành lạnh hiệu quả : 12~18 m2
+hiệu suất năng lượng : 4.48 cspf
+bảo hành 3 năm cho sản phẩm
+bảo hành 5 năm cho máy nén
+suất xứ : thái lan
+ - Giá tiền: 6,014,184 đ*
+
+2. *quạt điều hòa không khí everest 6000d - Mã: M&EGD000154
+  Thông số sản phẩm: • điện áp: 220v - 50hz
+• kích thước: (dài) 440 x (rộng) 340 x (cao) 970 mm
+• lưu lượng gió: 6000m3/h
+• dung tích khay chứa nước: 45l
+• công suất: 80w
+• điều khiển từ xa: có
+• cảm biến chất lượng không khí: có
+• chức năng tạo ion: có
+• tốc độ gió: 3 tốc độ
+• hướng gió: 4 chiều trái phải, lên xuống
+ - Giá tiền: 2,427,000 đ*
+
+3. *điều hòa mdv 1 chiều 12000 btu - model 2023 - Mã: 019013000004
+  Thông số sản phẩm: model: mdvg-13crdn8
+công suất: 12.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 15 - 20m²
+gas: r32
+mức tiêu thụ điện: 1.15 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 810 x 285 x 210 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 14 kg
+trọng lượng dàn nóng: 25 kg
+ - Giá tiền: 7,246,030 đ*
+
+4. *điều hòa mdv 1 chiều inverter 18000 btu - model 2023 - Mã: 019013000003
+  Thông số sản phẩm: model: mdvg-18crdn8
+công suất: 18.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 20 - 30m²
+gas: r32
+mức tiêu thụ điện: 1.65 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 969 x 320 x 241 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 18 kg
+trọng lượng dàn nóng: 28 kg
+ - Giá tiền: 11,740,520 đ*
+
+2024-08-14 08:13:34,068 - INFO - ==Conversation==
+2024-08-14 08:13:34,333 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-08-14 08:13:34,334 - INFO - Retrying request to /openai/v1/chat/completions in 15.000000 seconds
+2024-08-14 08:13:51,327 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:13:51,330 - INFO - +LLM out+:
+Xin chào, dựa trên thông tin tôi đã tìm thấy, tôi cung cấp cho bạn một số thông tin tham khảo:
+
+1. Điều hòa MDV - Mã: 019013000001
+  - Công suất: 9500 btu/h
+  - Bảo hành: 3 năm cho sản phẩm, 5 năm cho máy nén
+  - Kích thước dàn lạnh: 726x210x291 (mm)
+  - Kích thước dàn nóng: 835x300x540 (mm)
+  - Suất xứ: Thái Lan
+  - Giá tiền: 6,014,184 đ
+
+2. Điều hòa MDV 1 chiều 12000 btu - Model 2023 - Mã: 019013000004
+  - Công suất: 12.000 btu/h
+  - Diện tích sử dụng: 15 - 20m²
+  - Mức tiêu thụ điện: 1.15 kw/h
+  - Kích thước dàn lạnh: 810 x 285 x 210 mm
+  - Kích thước dàn nóng: 770 x 285 x 540 mm
+  - Trọng lượng dàn lạnh: 14 kg
+  - Trọng lượng dàn nóng: 25 kg
+  - Giá tiền: 7,246,030 đ
+
+3. Điều hòa MDV 1 chiều inverter 18000 btu - Model 2023 - Mã: 019013000003
+  - Công suất: 18.000 btu/h
+  - Diện tích sử dụng: 20 - 30m²
+  - Mức tiêu thụ điện: 1.65 kw/h
+  - Kích thước dàn lạnh: 969 x 320 x 241 mm
+  - Kích thước dàn nóng: 770 x 285 x 540 mm
+  - Trọng lượng dàn lạnh: 18 kg
+  - Trọng lượng dàn nóng: 28 kg
+  - Giá tiền: 11,740,520 đ
+
+Nếu bạn cần thêm thông tin chi tiết về từng sản phẩm, hãy cho tôi biết!!
+2024-08-14 08:13:51,331 - INFO - =====LLM done!=====
+2024-08-14 08:13:51,332 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 08:13:51,335 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 08:13:51,335 - INFO - InputText: điều hòa
+2024-08-14 08:13:51,335 - INFO - ---ChatText---
+2024-08-14 08:13:51,336 - INFO - =====rasa=====
+2024-08-14 08:13:51,375 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 08:13:51,376 - INFO - ====rasa done!====
+2024-08-14 08:13:51,376 - INFO - =====LLM=====
+2024-08-14 08:13:52,150 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:13:53,072 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:13:53,078 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 08:13:53,171 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 08:13:53,172 - INFO - ======== elasticsearch output ==========:
+
+1. *điều hòa mdv - inverter 9000 btu - Mã: 019013000001
+  Thông số sản phẩm: nguồn điện: 220-240v
+công suất: 9500 btu/h
+công suất tiêu thụ: 745 w
+cường độ dòng điện: 3.4 a
+err: 3.54 w/w
+inverter : có
+kích thước máy trong ( dxrxc): 726x210x291 (mm)
+khối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 kg
+kích thước máy ngoài (dxrxc): 835x300x540 (mm)
+khối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg
+loại gas/ khối lượng nạp: r32/0.38
+ap suất thiết kế: 4.3/1.7 mpa
+chiều dài đường ống tối đa: 25m
+chênh lệch độ cao tối đa: 10m
+phạm vi lành lạnh hiệu quả : 12~18 m2
+hiệu suất năng lượng : 4.48 cspf
+bảo hành 3 năm cho sản phẩm
+bảo hành 5 năm cho máy nén
+suất xứ : thái lan
+ - Giá tiền: 6,014,184 đ*
+
+2. *quạt điều hòa không khí everest 6000d - Mã: M&EGD000154
+  Thông số sản phẩm: • điện áp: 220v - 50hz
+• kích thước: (dài) 440 x (rộng) 340 x (cao) 970 mm
+• lưu lượng gió: 6000m3/h
+• dung tích khay chứa nước: 45l
+• công suất: 80w
+• điều khiển từ xa: có
+• cảm biến chất lượng không khí: có
+• chức năng tạo ion: có
+• tốc độ gió: 3 tốc độ
+• hướng gió: 4 chiều trái phải, lên xuống
+ - Giá tiền: 2,427,000 đ*
+
+3. *điều hòa mdv 1 chiều 12000 btu - model 2023 - Mã: 019013000004
+  Thông số sản phẩm: model: mdvg-13crdn8
+công suất: 12.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 15 - 20m²
+gas: r32
+mức tiêu thụ điện: 1.15 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 810 x 285 x 210 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 14 kg
+trọng lượng dàn nóng: 25 kg
+ - Giá tiền: 7,246,030 đ*
+
+4. *điều hòa mdv 1 chiều inverter 18000 btu - model 2023 - Mã: 019013000003
+  Thông số sản phẩm: model: mdvg-18crdn8
+công suất: 18.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 20 - 30m²
+gas: r32
+mức tiêu thụ điện: 1.65 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 969 x 320 x 241 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 18 kg
+trọng lượng dàn nóng: 28 kg
+ - Giá tiền: 11,740,520 đ*
+
+2024-08-14 08:13:53,173 - INFO - ==Conversation==
+2024-08-14 08:13:53,455 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-08-14 08:13:53,456 - INFO - Retrying request to /openai/v1/chat/completions in 26.000000 seconds
+2024-08-14 08:14:20,263 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:14:20,266 - INFO - +LLM out+:
+Anh/chị muốn xem sản phẩm nào? Có tầm giá bao nhiêu? Tôi sẽ giúp Anh/chị tìm kiếm. Cảm ơn Anh/chị.
+2024-08-14 08:14:20,266 - INFO - =====LLM done!=====
+2024-08-14 08:14:20,267 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 08:14:20,270 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 08:14:20,270 - INFO - InputText: điều hòa
+2024-08-14 08:14:20,270 - INFO - ---ChatText---
+2024-08-14 08:14:20,270 - INFO - =====rasa=====
+2024-08-14 08:14:20,310 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 08:14:20,310 - INFO - ====rasa done!====
+2024-08-14 08:14:20,310 - INFO - =====LLM=====
+2024-08-14 08:14:21,470 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:14:22,529 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:14:22,534 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 08:14:22,639 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 08:14:22,639 - INFO - ======== elasticsearch output ==========:
+
+1. *điều hòa mdv - inverter 9000 btu - Mã: 019013000001
+  Thông số sản phẩm: nguồn điện: 220-240v
+công suất: 9500 btu/h
+công suất tiêu thụ: 745 w
+cường độ dòng điện: 3.4 a
+err: 3.54 w/w
+inverter : có
+kích thước máy trong ( dxrxc): 726x210x291 (mm)
+khối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 kg
+kích thước máy ngoài (dxrxc): 835x300x540 (mm)
+khối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg
+loại gas/ khối lượng nạp: r32/0.38
+ap suất thiết kế: 4.3/1.7 mpa
+chiều dài đường ống tối đa: 25m
+chênh lệch độ cao tối đa: 10m
+phạm vi lành lạnh hiệu quả : 12~18 m2
+hiệu suất năng lượng : 4.48 cspf
+bảo hành 3 năm cho sản phẩm
+bảo hành 5 năm cho máy nén
+suất xứ : thái lan
+ - Giá tiền: 6,014,184 đ*
+
+2. *quạt điều hòa không khí everest 6000d - Mã: M&EGD000154
+  Thông số sản phẩm: • điện áp: 220v - 50hz
+• kích thước: (dài) 440 x (rộng) 340 x (cao) 970 mm
+• lưu lượng gió: 6000m3/h
+• dung tích khay chứa nước: 45l
+• công suất: 80w
+• điều khiển từ xa: có
+• cảm biến chất lượng không khí: có
+• chức năng tạo ion: có
+• tốc độ gió: 3 tốc độ
+• hướng gió: 4 chiều trái phải, lên xuống
+ - Giá tiền: 2,427,000 đ*
+
+3. *điều hòa mdv 1 chiều 12000 btu - model 2023 - Mã: 019013000004
+  Thông số sản phẩm: model: mdvg-13crdn8
+công suất: 12.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 15 - 20m²
+gas: r32
+mức tiêu thụ điện: 1.15 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 810 x 285 x 210 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 14 kg
+trọng lượng dàn nóng: 25 kg
+ - Giá tiền: 7,246,030 đ*
+
+4. *điều hòa mdv 1 chiều inverter 18000 btu - model 2023 - Mã: 019013000003
+  Thông số sản phẩm: model: mdvg-18crdn8
+công suất: 18.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 20 - 30m²
+gas: r32
+mức tiêu thụ điện: 1.65 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 969 x 320 x 241 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 18 kg
+trọng lượng dàn nóng: 28 kg
+ - Giá tiền: 11,740,520 đ*
+
+2024-08-14 08:14:22,640 - INFO - ==Conversation==
+2024-08-14 08:14:22,918 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-08-14 08:14:22,919 - INFO - Retrying request to /openai/v1/chat/completions in 19.000000 seconds
+2024-08-14 08:14:42,591 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:14:42,593 - INFO - +LLM out+:
+Anh/chị muốn xem sản phẩm nào? Có tầm giá bao nhiêu? Tôi sẽ giúp Anh/chị tìm kiếm. Cảm ơn Anh/chị.
+2024-08-14 08:14:42,594 - INFO - =====LLM done!=====
+2024-08-14 08:14:42,596 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 08:14:42,606 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 08:14:42,606 - INFO - InputText: điều hòa
+2024-08-14 08:14:42,606 - INFO - ---ChatText---
+2024-08-14 08:14:42,606 - INFO - =====rasa=====
+2024-08-14 08:14:42,647 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 08:14:42,647 - INFO - ====rasa done!====
+2024-08-14 08:14:42,647 - INFO - =====LLM=====
+2024-08-14 08:14:43,478 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:14:44,514 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:14:44,519 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 08:14:44,618 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 08:14:44,618 - INFO - ======== elasticsearch output ==========:
+
+1. *điều hòa mdv - inverter 9000 btu - Mã: 019013000001
+  Thông số sản phẩm: nguồn điện: 220-240v
+công suất: 9500 btu/h
+công suất tiêu thụ: 745 w
+cường độ dòng điện: 3.4 a
+err: 3.54 w/w
+inverter : có
+kích thước máy trong ( dxrxc): 726x210x291 (mm)
+khối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 kg
+kích thước máy ngoài (dxrxc): 835x300x540 (mm)
+khối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg
+loại gas/ khối lượng nạp: r32/0.38
+ap suất thiết kế: 4.3/1.7 mpa
+chiều dài đường ống tối đa: 25m
+chênh lệch độ cao tối đa: 10m
+phạm vi lành lạnh hiệu quả : 12~18 m2
+hiệu suất năng lượng : 4.48 cspf
+bảo hành 3 năm cho sản phẩm
+bảo hành 5 năm cho máy nén
+suất xứ : thái lan
+ - Giá tiền: 6,014,184 đ*
+
+2. *quạt điều hòa không khí everest 6000d - Mã: M&EGD000154
+  Thông số sản phẩm: • điện áp: 220v - 50hz
+• kích thước: (dài) 440 x (rộng) 340 x (cao) 970 mm
+• lưu lượng gió: 6000m3/h
+• dung tích khay chứa nước: 45l
+• công suất: 80w
+• điều khiển từ xa: có
+• cảm biến chất lượng không khí: có
+• chức năng tạo ion: có
+• tốc độ gió: 3 tốc độ
+• hướng gió: 4 chiều trái phải, lên xuống
+ - Giá tiền: 2,427,000 đ*
+
+3. *điều hòa mdv 1 chiều 12000 btu - model 2023 - Mã: 019013000004
+  Thông số sản phẩm: model: mdvg-13crdn8
+công suất: 12.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 15 - 20m²
+gas: r32
+mức tiêu thụ điện: 1.15 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 810 x 285 x 210 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 14 kg
+trọng lượng dàn nóng: 25 kg
+ - Giá tiền: 7,246,030 đ*
+
+4. *điều hòa mdv 1 chiều inverter 18000 btu - model 2023 - Mã: 019013000003
+  Thông số sản phẩm: model: mdvg-18crdn8
+công suất: 18.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 20 - 30m²
+gas: r32
+mức tiêu thụ điện: 1.65 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 969 x 320 x 241 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 18 kg
+trọng lượng dàn nóng: 28 kg
+ - Giá tiền: 11,740,520 đ*
+
+2024-08-14 08:14:44,619 - INFO - ==Conversation==
+2024-08-14 08:14:45,280 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-08-14 08:14:45,281 - INFO - Retrying request to /openai/v1/chat/completions in 17.000000 seconds
+2024-08-14 08:15:02,923 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:15:02,926 - INFO - +LLM out+:
+Anh/chị muốn xem sản phẩm nào? Có tầm giá bao nhiêu? Tôi sẽ giúp Anh/chị tìm kiếm. Cảm ơn Anh/chị.
+2024-08-14 08:15:02,926 - INFO - =====LLM done!=====
+2024-08-14 08:15:02,928 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 08:15:02,930 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 08:15:02,930 - INFO - InputText: điều hòa
+2024-08-14 08:15:02,931 - INFO - ---ChatText---
+2024-08-14 08:15:02,931 - INFO - =====rasa=====
+2024-08-14 08:15:02,972 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 08:15:02,972 - INFO - ====rasa done!====
+2024-08-14 08:15:02,973 - INFO - =====LLM=====
+2024-08-14 08:15:03,739 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:15:04,783 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:15:04,788 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 08:15:04,883 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 08:15:04,884 - INFO - ======== elasticsearch output ==========:
+
+1. *điều hòa mdv - inverter 9000 btu - Mã: 019013000001
+  Thông số sản phẩm: nguồn điện: 220-240v
+công suất: 9500 btu/h
+công suất tiêu thụ: 745 w
+cường độ dòng điện: 3.4 a
+err: 3.54 w/w
+inverter : có
+kích thước máy trong ( dxrxc): 726x210x291 (mm)
+khối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 kg
+kích thước máy ngoài (dxrxc): 835x300x540 (mm)
+khối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg
+loại gas/ khối lượng nạp: r32/0.38
+ap suất thiết kế: 4.3/1.7 mpa
+chiều dài đường ống tối đa: 25m
+chênh lệch độ cao tối đa: 10m
+phạm vi lành lạnh hiệu quả : 12~18 m2
+hiệu suất năng lượng : 4.48 cspf
+bảo hành 3 năm cho sản phẩm
+bảo hành 5 năm cho máy nén
+suất xứ : thái lan
+ - Giá tiền: 6,014,184 đ*
+
+2. *quạt điều hòa không khí everest 6000d - Mã: M&EGD000154
+  Thông số sản phẩm: • điện áp: 220v - 50hz
+• kích thước: (dài) 440 x (rộng) 340 x (cao) 970 mm
+• lưu lượng gió: 6000m3/h
+• dung tích khay chứa nước: 45l
+• công suất: 80w
+• điều khiển từ xa: có
+• cảm biến chất lượng không khí: có
+• chức năng tạo ion: có
+• tốc độ gió: 3 tốc độ
+• hướng gió: 4 chiều trái phải, lên xuống
+ - Giá tiền: 2,427,000 đ*
+
+3. *điều hòa mdv 1 chiều 12000 btu - model 2023 - Mã: 019013000004
+  Thông số sản phẩm: model: mdvg-13crdn8
+công suất: 12.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 15 - 20m²
+gas: r32
+mức tiêu thụ điện: 1.15 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 810 x 285 x 210 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 14 kg
+trọng lượng dàn nóng: 25 kg
+ - Giá tiền: 7,246,030 đ*
+
+4. *điều hòa mdv 1 chiều inverter 18000 btu - model 2023 - Mã: 019013000003
+  Thông số sản phẩm: model: mdvg-18crdn8
+công suất: 18.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 20 - 30m²
+gas: r32
+mức tiêu thụ điện: 1.65 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 969 x 320 x 241 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 18 kg
+trọng lượng dàn nóng: 28 kg
+ - Giá tiền: 11,740,520 đ*
+
+2024-08-14 08:15:04,885 - INFO - ==Conversation==
+2024-08-14 08:15:05,144 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-08-14 08:15:05,145 - INFO - Retrying request to /openai/v1/chat/completions in 14.000000 seconds
+2024-08-14 08:15:20,409 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:15:20,412 - INFO - +LLM out+:
+Xin chào, dựa trên thông tin tôi đã tìm thấy, tôi cung cấp cho bạn một số thông tin tham khảo:
+
+1. Điều hòa - Mã: 019013000001
+  - Bảo hành: 3 năm cho sản phẩm, 5 năm cho máy nén
+  - Kích thước dàn lạnh: 726x210x291 (mm)
+  - Kích thước dàn nóng: 835x300x540 (mm)
+  - Suất xứ: Thái Lan
+  - Giá tiền: 6,014,184 đ
+
+2. Điều hòa - Mã: 019013000004
+  - Diện tích sử dụng: 15 - 20m²
+  - Mức tiêu thụ điện: 1.15 kw/h
+  - Trọng lượng dàn lạnh: 14 kg
+  - Trọng lượng dàn nóng: 25 kg
+  - Giá tiền: 7,246,030 đ
+
+Nếu bạn cần thêm thông tin chi tiết về từng sản phẩm, hãy cho tôi biết!!
+2024-08-14 08:15:20,412 - INFO - =====LLM done!=====
+2024-08-14 08:15:20,414 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 08:15:20,416 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 08:15:20,416 - INFO - InputText: điều hòa
+2024-08-14 08:15:20,417 - INFO - ---ChatText---
+2024-08-14 08:15:20,417 - INFO - =====rasa=====
+2024-08-14 08:15:20,460 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 08:15:20,460 - INFO - ====rasa done!====
+2024-08-14 08:15:20,460 - INFO - =====LLM=====
+2024-08-14 08:15:21,396 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:15:27,521 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:15:27,526 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 08:15:27,621 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 08:15:27,621 - INFO - ======== elasticsearch output ==========:
+
+1. *điều hòa mdv - inverter 9000 btu - Mã: 019013000001
+  Thông số sản phẩm: nguồn điện: 220-240v
+công suất: 9500 btu/h
+công suất tiêu thụ: 745 w
+cường độ dòng điện: 3.4 a
+err: 3.54 w/w
+inverter : có
+kích thước máy trong ( dxrxc): 726x210x291 (mm)
+khối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 kg
+kích thước máy ngoài (dxrxc): 835x300x540 (mm)
+khối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg
+loại gas/ khối lượng nạp: r32/0.38
+ap suất thiết kế: 4.3/1.7 mpa
+chiều dài đường ống tối đa: 25m
+chênh lệch độ cao tối đa: 10m
+phạm vi lành lạnh hiệu quả : 12~18 m2
+hiệu suất năng lượng : 4.48 cspf
+bảo hành 3 năm cho sản phẩm
+bảo hành 5 năm cho máy nén
+suất xứ : thái lan
+ - Giá tiền: 6,014,184 đ*
+
+2. *quạt điều hòa không khí everest 6000d - Mã: M&EGD000154
+  Thông số sản phẩm: • điện áp: 220v - 50hz
+• kích thước: (dài) 440 x (rộng) 340 x (cao) 970 mm
+• lưu lượng gió: 6000m3/h
+• dung tích khay chứa nước: 45l
+• công suất: 80w
+• điều khiển từ xa: có
+• cảm biến chất lượng không khí: có
+• chức năng tạo ion: có
+• tốc độ gió: 3 tốc độ
+• hướng gió: 4 chiều trái phải, lên xuống
+ - Giá tiền: 2,427,000 đ*
+
+3. *điều hòa mdv 1 chiều 12000 btu - model 2023 - Mã: 019013000004
+  Thông số sản phẩm: model: mdvg-13crdn8
+công suất: 12.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 15 - 20m²
+gas: r32
+mức tiêu thụ điện: 1.15 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 810 x 285 x 210 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 14 kg
+trọng lượng dàn nóng: 25 kg
+ - Giá tiền: 7,246,030 đ*
+
+4. *điều hòa mdv 1 chiều inverter 18000 btu - model 2023 - Mã: 019013000003
+  Thông số sản phẩm: model: mdvg-18crdn8
+công suất: 18.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 20 - 30m²
+gas: r32
+mức tiêu thụ điện: 1.65 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 969 x 320 x 241 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 18 kg
+trọng lượng dàn nóng: 28 kg
+ - Giá tiền: 11,740,520 đ*
+
+2024-08-14 08:15:27,622 - INFO - ==Conversation==
+2024-08-14 08:15:28,007 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-08-14 08:15:28,007 - INFO - Retrying request to /openai/v1/chat/completions in 9.000000 seconds
+2024-08-14 08:15:38,671 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:15:38,674 - INFO - +LLM out+:
+Xin chào, dựa trên thông tin tôi đã tìm thấy, tôi cung cấp cho bạn một số thông tin tham khảo:
+
+1. Điều hòa - Mã: 019013000001
+  - Bảo hành: 3 năm cho sản phẩm, 5 năm cho máy nén
+  - Kích thước dàn lạnh: 726x210x291 (mm)
+  - Kích thước dàn nóng: 835x300x540 (mm)
+  - Suất xứ: Thái Lan
+  - Giá tiền: 6,014,184 đ
+
+2. Điều hòa - Mã: 019013000004
+  - Diện tích sử dụng: 15 - 20m²
+  - Mức tiêu thụ điện: 1.15 kw/h
+  - Trọng lượng dàn lạnh: 14 kg
+  - Trọng lượng dàn nóng: 25 kg
+  - Giá tiền: 7,246,030 đ
+
+3. Điều hòa - Mã: 019013000003
+  - Diện tích sử dụng: 20 - 30m²
+  - Mức tiêu thụ điện: 1.65 kw/h
+  - Trọng lượng dàn lạnh: 18 kg
+  - Trọng lượng dàn nóng: 28 kg
+  - Giá tiền: 11,740,520 đ
+
+Nếu bạn cần thêm thông tin chi tiết về từng sản phẩm, hãy cho tôi biết!!
+2024-08-14 08:15:38,674 - INFO - =====LLM done!=====
+2024-08-14 08:15:38,676 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 08:15:38,678 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 08:15:38,678 - INFO - InputText: điều hòa
+2024-08-14 08:15:38,678 - INFO - ---ChatText---
+2024-08-14 08:15:38,678 - INFO - =====rasa=====
+2024-08-14 08:15:38,721 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 08:15:38,721 - INFO - ====rasa done!====
+2024-08-14 08:15:38,721 - INFO - =====LLM=====
+2024-08-14 08:15:39,501 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:15:40,560 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:15:40,565 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.003s]
+2024-08-14 08:15:40,659 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 08:15:40,660 - INFO - ======== elasticsearch output ==========:
+
+1. *điều hòa mdv - inverter 9000 btu - Mã: 019013000001
+  Thông số sản phẩm: nguồn điện: 220-240v
+công suất: 9500 btu/h
+công suất tiêu thụ: 745 w
+cường độ dòng điện: 3.4 a
+err: 3.54 w/w
+inverter : có
+kích thước máy trong ( dxrxc): 726x210x291 (mm)
+khối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 kg
+kích thước máy ngoài (dxrxc): 835x300x540 (mm)
+khối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg
+loại gas/ khối lượng nạp: r32/0.38
+ap suất thiết kế: 4.3/1.7 mpa
+chiều dài đường ống tối đa: 25m
+chênh lệch độ cao tối đa: 10m
+phạm vi lành lạnh hiệu quả : 12~18 m2
+hiệu suất năng lượng : 4.48 cspf
+bảo hành 3 năm cho sản phẩm
+bảo hành 5 năm cho máy nén
+suất xứ : thái lan
+ - Giá tiền: 6,014,184 đ*
+
+2. *quạt điều hòa không khí everest 6000d - Mã: M&EGD000154
+  Thông số sản phẩm: • điện áp: 220v - 50hz
+• kích thước: (dài) 440 x (rộng) 340 x (cao) 970 mm
+• lưu lượng gió: 6000m3/h
+• dung tích khay chứa nước: 45l
+• công suất: 80w
+• điều khiển từ xa: có
+• cảm biến chất lượng không khí: có
+• chức năng tạo ion: có
+• tốc độ gió: 3 tốc độ
+• hướng gió: 4 chiều trái phải, lên xuống
+ - Giá tiền: 2,427,000 đ*
+
+3. *điều hòa mdv 1 chiều 12000 btu - model 2023 - Mã: 019013000004
+  Thông số sản phẩm: model: mdvg-13crdn8
+công suất: 12.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 15 - 20m²
+gas: r32
+mức tiêu thụ điện: 1.15 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 810 x 285 x 210 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 14 kg
+trọng lượng dàn nóng: 25 kg
+ - Giá tiền: 7,246,030 đ*
+
+4. *điều hòa mdv 1 chiều inverter 18000 btu - model 2023 - Mã: 019013000003
+  Thông số sản phẩm: model: mdvg-18crdn8
+công suất: 18.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 20 - 30m²
+gas: r32
+mức tiêu thụ điện: 1.65 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 969 x 320 x 241 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 18 kg
+trọng lượng dàn nóng: 28 kg
+ - Giá tiền: 11,740,520 đ*
+
+2024-08-14 08:15:40,660 - INFO - ==Conversation==
+2024-08-14 08:15:40,910 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-08-14 08:15:40,910 - INFO - Retrying request to /openai/v1/chat/completions in 18.000000 seconds
+2024-08-14 08:16:00,438 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 08:16:00,441 - INFO - +LLM out+:
+Xin chào, dựa trên thông tin tôi đã tìm thấy, tôi cung cấp cho bạn một số thông tin tham khảo:
+
+1. Điều hòa - Mã: 019013000001
+  - Bảo hành: 3 năm cho sản phẩm, 5 năm cho máy nén
+  - Kích thước dàn lạnh: 726x210x291 (mm)
+  - Kích thước dàn nóng: 835x300x540 (mm)
+  - Suất xứ: Thái Lan
+  - Giá tiền: 6,014,184 đ
+
+2. Điều hòa - Mã: 019013000004
+  - Diện tích sử dụng: 15 - 20m²
+  - Mức tiêu thụ điện: 1.15 kw/h
+  - Trọng lượng dàn lạnh: 14 kg
+  - Trọng lượng dàn nóng: 25 kg
+  - Giá tiền: 7,246,030 đ
+
+3. Điều hòa - Mã: 019013000003
+  - Diện tích sử dụng: 20 - 30m²
+  - Mức tiêu thụ điện: 1.65 kw/h
+  - Trọng lượng dàn lạnh: 18 kg
+  - Trọng lượng dàn nóng: 28 kg
+  - Giá tiền: 11,740,520 đ
+
+Nếu bạn cần thêm thông tin chi tiết về từng sản phẩm, hãy cho tôi biết!!
+2024-08-14 08:16:00,441 - INFO - =====LLM done!=====
+2024-08-14 08:16:00,443 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 08:25:45,359 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 08:25:45,359 - INFO - InputText: None
+2024-08-14 08:25:45,361 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 08:58:36,448 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 08:58:36,448 - INFO - InputText: None
+2024-08-14 08:58:36,450 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 08:58:46,415 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 08:58:46,415 - INFO - InputText: doanh thu tháng
+2024-08-14 08:58:46,415 - INFO - ---ChatText---
+2024-08-14 08:58:46,415 - INFO - =====rasa=====
+2024-08-14 08:58:46,525 - INFO - +rasa out+:
+Xin chào thu tháng!
+Rất vui được gặp thu tháng.Nếu có câu hỏi hoặc yêu cầu cụ thể nào liên quan đến dịch vụ mua sắm của VCC em sẽ cố gắng giúp anh/chị một cách tốt nhất.!
+2024-08-14 08:58:46,525 - INFO - ====rasa done!====
+2024-08-14 08:58:46,526 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 09:03:20,636 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 09:03:20,637 - INFO - InputText: None
+2024-08-14 09:03:20,639 - INFO - ======== logs_chat_saleman sucessfully! ==========}

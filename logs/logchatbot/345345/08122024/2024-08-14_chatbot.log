@@ -1,0 +1,70 @@
+2024-08-14 10:50:16,456 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 10:50:16,457 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 10:50:16,457 - INFO - ---ChatText---
+2024-08-14 10:50:16,457 - INFO - =====rasa=====
+2024-08-14 10:50:16,595 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 10:50:16,595 - INFO - ====rasa done!====
+2024-08-14 10:50:16,596 - INFO - =====LLM=====
+2024-08-14 10:50:17,483 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:50:18,618 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:50:18,624 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 10:50:18,718 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 10:50:18,718 - INFO - ======== elasticsearch output ==========:
+
+2024-08-14 10:56:11,841 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 10:56:11,841 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 10:56:11,842 - INFO - ---ChatText---
+2024-08-14 10:56:11,842 - INFO - =====rasa=====
+2024-08-14 10:56:11,982 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 10:56:11,982 - INFO - ====rasa done!====
+2024-08-14 10:56:11,982 - INFO - =====LLM=====
+2024-08-14 10:56:12,814 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:56:13,850 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:56:13,856 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.003s]
+2024-08-14 10:56:13,950 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 10:56:13,950 - INFO - ======== elasticsearch output ==========:
+
+2024-08-14 10:57:45,042 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 10:57:45,042 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 10:57:45,043 - INFO - ---ChatText---
+2024-08-14 10:57:45,043 - INFO - =====rasa=====
+2024-08-14 10:57:45,184 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 10:57:45,184 - INFO - ====rasa done!====
+2024-08-14 10:57:45,184 - INFO - =====LLM=====
+2024-08-14 10:57:46,130 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:57:47,192 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:57:47,198 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 10:57:47,290 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 10:57:47,291 - INFO - ======== elasticsearch output ==========:
+
+2024-08-14 11:04:00,808 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 11:04:00,808 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 11:04:00,808 - INFO - ---ChatText---
+2024-08-14 11:04:00,808 - INFO - =====rasa=====
+2024-08-14 11:04:00,961 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 11:04:00,961 - INFO - ====rasa done!====
+2024-08-14 11:04:00,961 - INFO - =====LLM=====
+2024-08-14 11:04:03,784 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 11:04:04,789 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 11:04:04,794 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 11:04:04,885 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.002s]
+2024-08-14 11:04:04,885 - INFO - ======== elasticsearch output ==========:
+
+2024-08-14 11:19:18,125 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 11:19:18,125 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 11:19:18,126 - INFO - ---ChatText---
+2024-08-14 11:19:18,126 - INFO - =====rasa=====
+2024-08-14 11:19:18,293 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 11:19:18,294 - INFO - ====rasa done!====
+2024-08-14 11:19:18,294 - INFO - =====LLM=====
+2024-08-14 11:19:19,096 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 11:19:20,169 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 11:19:20,174 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 11:19:20,265 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 11:19:20,266 - INFO - ======== elasticsearch output ==========:
+

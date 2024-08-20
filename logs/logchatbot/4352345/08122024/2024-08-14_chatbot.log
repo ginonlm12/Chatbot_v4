@@ -1,0 +1,358 @@
+2024-08-14 12:13:18,251 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 12:13:18,251 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 12:13:18,252 - INFO - ---ChatText---
+2024-08-14 12:13:18,252 - INFO - =====rasa=====
+2024-08-14 12:13:18,445 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 12:13:18,446 - INFO - ====rasa done!====
+2024-08-14 12:13:18,446 - INFO - =====LLM=====
+2024-08-14 12:13:19,355 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:13:20,371 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:13:20,376 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 12:13:20,471 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 12:13:20,471 - INFO - ======== elasticsearch output ==========:
+
+2024-08-14 12:13:20,471 - INFO - ==Conversation==
+2024-08-14 12:13:21,632 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:13:21,645 - INFO - +LLM out+:
+Điều hòa giá cả phải chăng là nhu cầu của nhiều khách hàng. Tôi có thể giới thiệu hai sản phẩm điều hòa giá rẻ dưới đây:
+
+1. Điều hòa - Mã: ASG-07CRN8A
+- Bảo hành: 2 năm
+- Kích thước dàn lạnh: 840 x 290 x 195 mm
+- Kích thước dàn nóng: 770 x 540 x 290 mm
+- Suất xứ: Thái Lan
+- Giá tiền: 29.900.000 VNĐ
+
+2. Điều hòa - Mã: ASG-09CRN8A
+- Diện tích sử dụng: 30-40 m²
+- Mức tiêu thụ điện: 0.93 kW
+- Trọng lượng: dàn lạnh 12 kg, dàn nóng 34 kg
+- Giá tiền: 32.900.000 VNĐ
+
+Nếu bạn cần thêm thông tin hoặc muốn biết thêm các sản phẩm khác, xin vui lòng cho tôi biết!
+2024-08-14 12:13:21,645 - INFO - =====LLM done!=====
+2024-08-14 12:13:21,649 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 12:37:44,215 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 12:37:44,216 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 12:37:44,216 - INFO - ---ChatText---
+2024-08-14 12:37:44,216 - INFO - =====rasa=====
+2024-08-14 12:37:44,410 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 12:37:44,411 - INFO - ====rasa done!====
+2024-08-14 12:37:44,411 - INFO - =====LLM=====
+2024-08-14 12:37:45,383 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:37:46,921 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:37:46,927 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 12:37:47,022 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 12:37:47,022 - INFO - ======== elasticsearch output ==========:
+
+2024-08-14 12:37:47,023 - INFO - ==Conversation==
+2024-08-14 12:37:48,321 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:37:48,335 - INFO - +LLM out+:
+Điều hòa 30 triệu là một mức giá hợp lý. Tôi có thể giới thiệu hai sản phẩm điều hòa có giá khoảng 30 triệu như sau:
+
+1. Điều hòa - Mã: ASGA-24VL
+- Bảo hành: 2 năm
+- Kích thước dàn lạnh: 840 x 290 x 215 mm
+- Kích thước dàn nóng: 845 x 540 x 320 mm
+- Suất xứ: Thái Lan
+- Giá tiền: 29.900.000 VNĐ
+
+2. Điều hòa - Mã: FTKC-35QN1
+- Diện tích sử dụng: 35m²
+- Mức tiêu thụ điện: 1.5 kW
+- Trọng lượng:
+  dàn lạnh: 12 kg
+  dàn nóng: 34 kg
+- Giá tiền: 30.500.000 VNĐ
+
+Cả hai sản phẩm trên đều có chất lượng tốt và giá cả hợp lý. Tuy nhiên, để có thể tư vấn tốt hơn, tôi cần biết thêm thông tin về nhu cầu của bạn. Ví dụ, diện tích phòng của bạn là bao nhiêu, và bạn có yêu cầu gì đặc biệt về sản phẩm?
+2024-08-14 12:37:48,335 - INFO - =====LLM done!=====
+2024-08-14 12:37:48,338 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 12:38:58,298 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 12:38:58,298 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 12:38:58,298 - INFO - ---ChatText---
+2024-08-14 12:38:58,298 - INFO - =====rasa=====
+2024-08-14 12:38:58,498 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 12:38:58,499 - INFO - ====rasa done!====
+2024-08-14 12:38:58,499 - INFO - =====LLM=====
+2024-08-14 12:38:59,335 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:39:00,385 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:39:00,390 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 12:39:00,485 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 12:39:00,485 - INFO - ======== elasticsearch output ==========:
+
+2024-08-14 12:39:00,485 - INFO - ==Conversation==
+2024-08-14 12:39:01,615 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:39:01,629 - INFO - +LLM out+:
+Tôi có thể giới thiệu đến anh/chị hai mẫu điều hòa giá rẻ như sau:
+
+1. Điều hòa - Mã: ASG-12TL
+- Bảo hành: 2 năm
+- Kích thước dàn lạnh: 845 x 290 x 195 mm
+- Kích thước dàn nóng: 720 x 270 x 410 mm
+- Suất xứ : Thái Lan
+- Giá tiền: 29.500.000 VNĐ
+
+2. Điều hòa - Mã: ASG-12TV
+- Diện tích sử dụng: 40-50 m2
+- Mức tiêu thụ điện: 1.32 kW
+- Trọng lượng:
+    dàn lạnh: 12 kg
+    dàn nóng: 23 kg
+- Giá tiền: 28.000.000 VNĐ
+
+Anh/chị có thể tham khảo hai mẫu trên và cho tôi biết nếu cần thêm thông tin gì khác. Cảm ơn anh/chị!
+2024-08-14 12:39:01,629 - INFO - =====LLM done!=====
+2024-08-14 12:39:01,631 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 12:39:39,032 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 12:39:39,032 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 12:39:39,032 - INFO - ---ChatText---
+2024-08-14 12:39:39,032 - INFO - =====rasa=====
+2024-08-14 12:39:39,231 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 12:39:39,231 - INFO - ====rasa done!====
+2024-08-14 12:39:39,231 - INFO - =====LLM=====
+2024-08-14 12:39:40,087 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:39:41,245 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:39:41,251 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 12:39:41,345 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 12:39:41,345 - INFO - ======== elasticsearch output ==========:
+
+2024-08-14 12:39:41,346 - INFO - ==Conversation==
+2024-08-14 12:39:42,421 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:39:42,435 - INFO - +LLM out+:
+Tôi có thể giúp bạn tìm kiếm điều hòa với giá khoảng 30 triệu đồng.
+
+1. Điều hòa - Mã: ASG-24VL
+- Bảo hành: 2 năm
+- Kích thước dàn lạnh: 840 x 290 x 220 mm
+- Kích thước dàn nóng: 770 x 540 x 310 mm
+- Suất xứ : Thái Lan
+- Giá tiền: 29.500.000 VNĐ
+
+2. Điều hòa - Mã: FTKC-24NVMV
+- Diện tích sử dụng: 24 - 30 m²
+- Mức tiêu thụ điện: 2.2 kW
+- Trọng lượng: dàn lạnh 11 kg, dàn nóng 32 kg
+- Giá tiền: 28.900.000 VNĐ
+
+Hãy cho tôi biết nếu bạn cần thêm thông tin hoặc muốn tìm kiếm các sản phẩm khác!
+2024-08-14 12:39:42,435 - INFO - =====LLM done!=====
+2024-08-14 12:39:42,437 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 12:40:10,284 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 12:40:10,284 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 12:40:10,284 - INFO - ---ChatText---
+2024-08-14 12:40:10,285 - INFO - =====rasa=====
+2024-08-14 12:40:10,483 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 12:40:10,483 - INFO - ====rasa done!====
+2024-08-14 12:40:10,483 - INFO - =====LLM=====
+2024-08-14 12:40:11,385 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:40:12,380 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:40:12,386 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 12:40:12,479 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.002s]
+2024-08-14 12:40:12,479 - INFO - ======== elasticsearch output ==========:
+
+2024-08-14 12:40:12,480 - INFO - ==Conversation==
+2024-08-14 12:40:13,684 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:40:13,697 - INFO - +LLM out+:
+Xin chào! Tôi có thể giới thiệu đến Anh/chị một số điều hòa có giá khoảng 30 triệu đồng. Hiện tại, chúng tôi có hai sản phẩm sau:
+
+1. Điều hòa - Mã: ASGA-24CV
+- Bảo hành: 2 năm
+- Kích thước dàn lạnh: 840 x 290 x 195 mm
+- Kích thước dàn nóng: 770 x 540 x 310 mm
+- Suất xứ : Đài Loan
+- Giá tiền: 29.500.000 VNĐ
+
+2. Điều hòa - Mã: FTKC-24NVMV
+- Diện tích sử dụng: 25-30 m²
+- Mức tiêu thụ điện: 0.95 kW
+- Trọng lượng: 
+  dàn lạnh: 10 kg
+  dàn nóng: 25 kg
+- Giá tiền: 30.500.000 VNĐ
+
+Anh/chị có thể tham khảo hai sản phẩm trên và cho tôi biết nếu có nhu cầu đặt mua. Cảm ơn Anh/chị!
+2024-08-14 12:40:13,698 - INFO - =====LLM done!=====
+2024-08-14 12:40:13,701 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 12:41:15,639 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 12:41:15,640 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 12:41:15,640 - INFO - ---ChatText---
+2024-08-14 12:41:15,640 - INFO - =====rasa=====
+2024-08-14 12:41:15,838 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 12:41:15,838 - INFO - ====rasa done!====
+2024-08-14 12:41:15,838 - INFO - =====LLM=====
+2024-08-14 12:41:16,758 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:41:18,289 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:41:18,294 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.003s]
+2024-08-14 12:41:18,388 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 12:41:18,389 - INFO - ======== elasticsearch output ==========:
+
+2024-08-14 12:41:18,389 - INFO - ==Conversation==
+2024-08-14 12:41:19,554 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:41:19,568 - INFO - +LLM out+:
+Tôi có thể giới thiệu cho anh/chị hai mẫu điều hòa giá rẻ dưới 30 triệu đồng như sau:
+
+1. Điều hòa Gree GWC-09KB - Mã: GWC-09KB
+- Bảo hành: 2 năm
+- Kích thước dàn lạnh: 840 x 290 x 195 mm
+- Kích thước dàn nóng: 770 x 295 x 420 mm
+- Suất xứ: Trung Quốc
+- Giá tiền: 24.900.000 VND
+
+2. Điều hòa Funiki HSC09MMC - Mã: HSC09MMC
+- Diện tích sử dụng: 15 - 20 m²
+- Mức tiêu thụ điện: 0.95 kW
+- Trọng lượng: dàn lạnh 9 kg, dàn nóng 23 kg
+- Giá tiền: 26.500.000 VND
+
+Anh/chị có thể tham khảo thêm thông tin về hai sản phẩm trên và chọn lựa sản phẩm phù hợp với nhu cầu của mình.
+2024-08-14 12:41:19,568 - INFO - =====LLM done!=====
+2024-08-14 12:41:19,570 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 12:42:07,539 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 12:42:07,539 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 12:42:07,539 - INFO - ---ChatText---
+2024-08-14 12:42:07,539 - INFO - =====rasa=====
+2024-08-14 12:42:07,741 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 12:42:07,741 - INFO - ====rasa done!====
+2024-08-14 12:42:07,741 - INFO - =====LLM=====
+2024-08-14 12:42:08,828 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:42:09,814 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:42:09,820 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 12:42:09,914 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 12:42:09,914 - INFO - ======== elasticsearch output ==========:
+
+2024-08-14 12:42:09,914 - INFO - ==Conversation==
+2024-08-14 12:42:11,354 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:42:11,368 - INFO - +LLM out+:
+Anh/chị đang tìm điều hòa với giá khoảng 30 triệu đồng. Tôi có một số sản phẩm sau đây có thể đáp ứng nhu cầu của anh/chị:
+
+1. Điều hòaGREE Inverter 1.5 HP GWC-18PD-K3NNDH - Mã: GWC-18PD-K3NNDH
+- Bảo hành: 3 năm
+- Kích thước dàn lạnh: 970 x 290 x 220 mm
+- Kích thước dàn nóng: 930 x 440 x 320 mm
+- Suất xứ: Trung Quốc
+- Giá tiền: 29.500.000 VNĐ
+
+2. Điều hòaTCL Inverter 1.5 HP TAC-18CSD-K3NNDH - Mã: TAC-18CSD-K3NNDH
+- Diện tích sử dụng: 15-20 m2
+- Mức tiêu thụ điện: 0.95 kW
+- Trọng lượng: dàn lạnh 11 kg, dàn nóng 36 kg
+- Giá tiền: 29.900.000 VNĐ
+
+Anh/chị có thể tham khảo thêm thông tin về các sản phẩm này và cho tôi biết nếu cần thêm sự hỗ trợ nào khác. Cảm ơn anh/chị!
+2024-08-14 12:42:11,368 - INFO - =====LLM done!=====
+2024-08-14 12:42:11,371 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 12:43:20,550 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 12:43:20,550 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 12:43:20,550 - INFO - ---ChatText---
+2024-08-14 12:43:20,550 - INFO - =====rasa=====
+2024-08-14 12:43:20,751 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 12:43:20,751 - INFO - ====rasa done!====
+2024-08-14 12:43:20,751 - INFO - =====LLM=====
+2024-08-14 12:43:21,606 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:43:23,076 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:43:23,082 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.003s]
+2024-08-14 12:43:23,177 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 12:43:23,177 - INFO - ======== elasticsearch output ==========:
+
+2024-08-14 12:43:23,177 - INFO - ==Conversation==
+2024-08-14 12:43:24,321 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:43:24,334 - INFO - +LLM out+:
+Tôi có thể giới thiệu cho anh/chị hai mẫu điều hòa giá rẻ như sau:
+
+1. Điều hòa - Mã: ASGA-12BMXA
+- Bảo hành: 12 tháng
+- Kích thước dàn lạnh: 800 x 290 x 420 mm
+- Kích thước dàn nóng: 840 x 540 x 320 mm
+- Suất xứ: Nhật Bản
+- Giá tiền: 29.900.000 VNĐ
+
+2. Điều hòa - Mã: ASGA-18BMXA
+- Diện tích sử dụng: 20-30 m2
+- Mức tiêu thụ điện: 1.8 kW
+- Trọng lượng:
+  dàn lạnh: 12 kg
+  dàn nóng: 34 kg
+- Giá tiền: 29.500.000 VNĐ
+
+Anh/chị có thể tham khảo hai mẫu điều hòa trên, nếu cần thêm thông tin hoặc muốn biết thêm về các mẫu điều hòa khác, xin vui lòng cho tôi biết. Cảm ơn anh/chị.
+2024-08-14 12:43:24,335 - INFO - =====LLM done!=====
+2024-08-14 12:43:24,337 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 12:44:09,302 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 12:44:09,303 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 12:44:09,303 - INFO - ---ChatText---
+2024-08-14 12:44:09,303 - INFO - =====rasa=====
+2024-08-14 12:44:09,502 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 12:44:09,502 - INFO - ====rasa done!====
+2024-08-14 12:44:09,502 - INFO - =====LLM=====
+2024-08-14 12:44:10,407 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:44:11,599 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:44:11,605 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 12:44:11,698 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 12:44:11,698 - INFO - ======== elasticsearch output ==========:
+
+2024-08-14 12:44:11,698 - INFO - ==Conversation==
+2024-08-14 12:44:12,902 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:44:12,916 - INFO - +LLM out+:
+Điều hòa giá rẻ là một nhu cầu phổ biến hiện nay. Tôi có thể giới thiệu đến anh/chị hai sản phẩm điều hòa phù hợp với nhu cầu của anh/chị.
+
+1. Điều hòa - Mã: DLK-009
+- Bảo hành: 2 năm
+- Kích thước dàn lạnh: 96 cm x 29 cm x 20 cm
+- Kích thước dàn nóng: 83 cm x 29 cm x 20 cm
+- Suất xứ: Việt Nam
+- Giá tiền: 29.900.000 VNĐ
+
+2. Điều hòa - Mã: DLK-012
+- Diện tích sử dụng: 15-20 m²
+- Mức tiêu thụ điện: 1.2 kW
+- Trọng lượng: dàn lạnh 10 kg, dàn nóng 20 kg
+- Giá tiền: 28.500.000 VNĐ
+
+Anh/chị có thể tham khảo hai sản phẩm trên và cho tôi biết nếu cần thêm thông tin hoặc muốn đặt mua. Cảm ơn anh/chị!
+2024-08-14 12:44:12,916 - INFO - =====LLM done!=====
+2024-08-14 12:44:12,919 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 12:44:39,232 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 12:44:39,232 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 12:44:39,232 - INFO - ---ChatText---
+2024-08-14 12:44:39,232 - INFO - =====rasa=====
+2024-08-14 12:44:39,433 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 12:44:39,433 - INFO - ====rasa done!====
+2024-08-14 12:44:39,433 - INFO - =====LLM=====
+2024-08-14 12:44:40,272 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:44:41,651 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:44:41,656 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 12:44:41,747 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 12:44:41,748 - INFO - ======== elasticsearch output ==========:
+
+2024-08-14 12:44:41,748 - INFO - ==Conversation==
+2024-08-14 12:44:42,980 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 12:44:42,983 - INFO - +LLM out+:
+Điều hòa giá rẻ là một nhu cầu phổ biến hiện nay. Tôi có thể giới thiệu đến anh/chị hai sản phẩm điều hòa phù hợp với nhu cầu của anh/chị.
+
+1. Điều hòa - Mã: DLK-009
+- Bảo hành: 2 năm
+- Kích thước dàn lạnh: 96 cm x 29 cm x 20 cm
+- Kích thước dàn nóng: 83 cm x 29 cm x 20 cm
+- Suất xứ: Việt Nam
+- Giá tiền: 29.900.000 VNĐ
+
+2. Điều hòa - Mã: DLK-012
+- Diện tích sử dụng: 15-20 m²
+- Mức tiêu thụ điện: 1.2 kW
+- Trọng lượng: dàn lạnh 10 kg, dàn nóng 20 kg
+- Giá tiền: 28.500.000 VNĐ
+
+Anh/chị có thể tham khảo hai sản phẩm trên và cho tôi biết nếu cần thêm thông tin hoặc muốn đặt mua. Cảm ơn anh/chị!
+2024-08-14 12:44:42,983 - INFO - =====LLM done!=====
+2024-08-14 12:44:42,985 - INFO - ======== logs_chat_saleman sucessfully! ==========}

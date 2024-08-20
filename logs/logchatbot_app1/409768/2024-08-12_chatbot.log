@@ -1,0 +1,35 @@
+2024-08-12 19:00:00,176 - INFO - ----------------NEW_SESSION--------------
+2024-08-12 19:00:00,176 - INFO - InputText: None
+2024-08-12 19:00:00,178 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 08:58:09,746 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 08:58:09,746 - INFO - InputText: None
+2024-08-13 08:58:09,748 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 08:58:15,864 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 08:58:15,864 - INFO - InputText: Bạn muốn tra cứu hàng tồn kho?
+2024-08-13 08:58:15,864 - INFO - ---ChatText---
+2024-08-13 08:58:15,864 - INFO - =====rasa=====
+2024-08-13 08:58:15,943 - INFO - +rasa out+:
+Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:
+2024-08-13 08:58:15,943 - INFO - ====rasa done!====
+2024-08-13 08:58:15,945 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 08:58:33,394 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 08:58:33,395 - INFO - InputText: None
+2024-08-13 08:58:33,395 - INFO - ---Inventory---
+2024-08-13 08:58:33,776 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 13:49:58,094 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 13:49:58,095 - INFO - InputText: None
+2024-08-13 13:49:58,097 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 15:45:32,266 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 15:45:32,266 - INFO - InputText: None
+2024-08-13 15:45:32,269 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 15:45:44,675 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 15:45:44,675 - INFO - InputText: Bạn muốn tra cứu hàng tồn kho?
+2024-08-13 15:45:44,675 - INFO - ---ChatText---
+2024-08-13 15:45:44,676 - INFO - =====rasa=====
+2024-08-13 15:45:44,754 - INFO - +rasa out+:
+Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:
+2024-08-13 15:45:44,754 - INFO - ====rasa done!====
+2024-08-13 15:45:44,756 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-13 15:46:20,256 - INFO - ----------------NEW_SESSION--------------
+2024-08-13 15:46:20,256 - INFO - InputText: None
+2024-08-13 15:46:20,258 - INFO - ======== logs_chat_saleman sucessfully! ==========}

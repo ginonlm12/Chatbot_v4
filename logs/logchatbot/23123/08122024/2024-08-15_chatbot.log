@@ -1,0 +1,125 @@
+2024-08-15 09:10:43,258 - INFO - ----------------NEW_SESSION--------------
+2024-08-15 09:10:43,259 - INFO - InputText: có bán điều hòa 14 tr k
+2024-08-15 09:10:43,259 - INFO - ---ChatText---
+2024-08-15 09:10:43,259 - INFO - =====rasa=====
+2024-08-15 09:10:43,294 - INFO - +rasa out+:
+LLM_predict
+2024-08-15 09:10:43,294 - INFO - ====rasa done!====
+2024-08-15 09:10:43,294 - INFO - =====LLM=====
+2024-08-15 09:10:44,236 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-15 09:10:45,776 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-15 09:10:45,782 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.003s]
+2024-08-15 09:10:45,879 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-15 09:10:45,879 - INFO - ======== elasticsearch output ==========:
+
+1. *điều hòa daikin 12000btu 2 chiều inverter - dòng tiêu chuẩn - fthf-va - model 2023 - Mã: 019001000014
+  Thông số sản phẩm: loại: điều hòa 2 chiều inverter
+
+công suất: 12.000 btu/h (1.5 hp)
+
+diện tích sử dụng: 20 - 30m²
+
+mức tiêu thụ điện:
+
+làm lạnh: 585 (230 - 1.310) w/h
+sưởi ấm: 700 (190 - 1.600) w/h
+hiệu suất năng lượng:
+
+làm lạnh: 6.11 (a**)
+sưởi ấm: 5.08 (a)
+gas: r32
+
+chế độ inverter: có
+
+công nghệ:
+
+công nghệ inverter tiết kiệm điện
+công nghệ luồng gió coanda
+mắt thần thông minh
+phin lọc apatit titan
+chế độ powerful làm lạnh nhanh
+chế độ vận hành khi ngủ
+chức năng:
+
+làm lạnh nhanh
+sưởi ấm
+lọc bụi mịn pm2.5
+khử mùi
+hẹn giờ
+điều khiển từ xa
+độ ồn:
+
+dàn lạnh: 28/25 db(a)
+dàn nóng: 49 db(a)
+kích thước:
+
+dàn lạnh: 285 x 770 x 223 mm
+dàn nóng: 540 x 670 x 240 mm
+trọng lượng:
+
+dàn lạnh: 13 kg
+dàn nóng: 26 kg
+ - Giá tiền: 14,851,100 đ*
+
+2. *điều hòa carrier 2 chiều inverter - công suất: 12.000 btu/h (1.5 hp) - model 2023 - Mã: 019014000006
+  Thông số sản phẩm: loại: điều hòa 2 chiều inverter
+
+công suất: 12.000 btu/h (1.5 hp)
+
+diện tích sử dụng: 15 - 20m²
+
+mức tiêu thụ điện:
+
+làm lạnh: 0.83 (0.24-1.12) kw/h
+sưởi ấm: 0.94 (0.22-1.22) kw/h
+hiệu suất năng lượng:
+
+làm lạnh: 5.8 (a++)
+sưởi ấm: 4.8 (a+)
+gas: r32
+
+chế độ inverter: có
+
+chức năng:
+
+làm lạnh nhanh
+tự làm sạch
+lọc bụi mịn pm2.5
+khử mùi
+chế độ gió coanda
+hẹn giờ
+điều khiển từ xa
+độ ồn:
+
+dàn lạnh: 22/19 db(a)
+dàn nóng: 52/48 db(a)
+kích thước:
+
+dàn lạnh: 293 x 798 x 230 mm
+dàn nóng: 530 x 660 x 240 mm
+trọng lượng:
+
+dàn lạnh: 10 kg
+dàn nóng: 25 kg
+ - Giá tiền: 14,917,980 đ*
+
+2024-08-15 09:10:45,880 - INFO - ==Conversation==
+2024-08-15 09:10:47,212 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-15 09:10:47,226 - INFO - +LLM out+:
+ 
+
+1. Điều hòa Daikin 12000BTU 2 chiều Inverter - Mã: 019001000014
+   - Diện tích sử dụng: 20 - 30m²
+   - Mức tiêu thụ điện: Làm lạnh: 585 (230 - 1.310) W/h, Sưởi ấm: 700 (190 - 1.600) W/h
+   - Trọng lượng: Dàn lạnh: 13 kg, Dàn nóng: 26 kg
+   - Giá tiền: 14,851,100 đ
+
+2. Điều hòa Carrier 2 chiều Inverter - Mã: 019014000006
+   - Diện tích sử dụng: 15 - 20m²
+   - Mức tiêu thụ điện: Làm lạnh: 0.83 (0.24-1.12) kW/h, Sưởi ấm: 0.94 (0.22-1.22) kW/h
+   - Trọng lượng: Dàn lạnh: 10 kg, Dàn nóng: 25 kg
+   - Giá tiền: 14,917,980 đ
+
+Nếu bạn cần thêm thông tin chi tiết về các sản phẩm khác, hãy cho tôi biết!
+2024-08-15 09:10:47,226 - INFO - =====LLM done!=====
+2024-08-15 09:10:47,229 - INFO - ======== logs_chat_saleman sucessfully! ==========}

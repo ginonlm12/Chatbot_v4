@@ -1,0 +1,593 @@
+2024-08-14 10:32:28,593 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 10:32:28,593 - INFO - InputText: điều hòa khoảng 10tr
+2024-08-14 10:32:28,593 - INFO - ---ChatText---
+2024-08-14 10:32:28,593 - INFO - =====rasa=====
+2024-08-14 10:32:28,708 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 10:32:28,708 - INFO - ====rasa done!====
+2024-08-14 10:32:28,708 - INFO - =====LLM=====
+2024-08-14 10:32:29,515 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:32:30,928 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:32:30,934 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 10:32:31,029 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 10:32:31,029 - INFO - ======== elasticsearch output ==========:
+
+1. *điều hòa mdv 1 chiều inverter 18000 btu - model 2023 - Mã: 019013000003
+  Thông số sản phẩm: model: mdvg-18crdn8
+công suất: 18.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 20 - 30m²
+gas: r32
+mức tiêu thụ điện: 1.65 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 969 x 320 x 241 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 18 kg
+trọng lượng dàn nóng: 28 kg
+ - Giá tiền: 11,740,520 đ*
+
+2. *điều hòa carrier 1 chiều inverter 12.000 btu/h (1.5 hp) - model 2023 - Mã: 019014000002
+  Thông số sản phẩm: loại: điều hòa 1 chiều inverter
+
+công suất: 12.000 btu/h (1.5 hp)
+
+diện tích sử dụng: 15 - 20m²
+
+mức tiêu thụ điện:
+
+làm lạnh: 1.20 kw/h
+sưởi ấm: -
+hiệu suất năng lượng: 5.8 (a++)
+
+gas: r32
+
+chế độ inverter: có
+
+chức năng:
+
+làm lạnh nhanh
+tự làm sạch
+lọc bụi mịn pm2.5
+khử mùi
+chế độ gió coanda
+hẹn giờ
+điều khiển từ xa
+độ ồn:
+
+dàn lạnh: 22/19 db(a)
+dàn nóng: 52/48 db(a)
+kích thước:
+
+dàn lạnh: 840 x 295 x 200 mm
+dàn nóng: 770 x 285 x 540 mm
+trọng lượng:
+
+dàn lạnh: 13 kg
+dàn nóng: 25 kg
+ - Giá tiền: 11,200,420 đ*
+
+3. *điều hòa 1 chiều carrier inverter 9000 btu/h (1 hp) - model 2023 - Mã: 019014000001
+  Thông số sản phẩm: loại: điều hòa 1 chiều inverter
+
+công suất: 9.000 btu/h (1 hp)
+
+diện tích sử dụng: dưới 15m²
+
+mức tiêu thụ điện:
+
+làm lạnh: 1.15 kw/h
+sưởi ấm: -
+hiệu suất năng lượng: 5.8 (a++)
+
+gas: r32
+
+chế độ inverter: có
+
+chức năng:
+
+làm lạnh nhanh
+tự làm sạch
+lọc bụi mịn pm2.5
+khử mùi
+chế độ gió coanda
+hẹn giờ
+điều khiển từ xa
+độ ồn:
+
+dàn lạnh: 22/19 db(a)
+dàn nóng: 52/48 db(a)
+kích thước:
+
+dàn lạnh: 800 x 295 x 200 mm
+dàn nóng: 770 x 285 x 540 mm
+trọng lượng:
+
+dàn lạnh: 12 kg
+dàn nóng: 25 kg
+ - Giá tiền: 9,423,040 đ*
+
+2024-08-14 10:32:31,031 - INFO - ==Conversation==
+2024-08-14 10:32:31,999 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:32:32,012 - INFO - +LLM out+:
+Dựa trên thông tin tôi đã tìm thấy, tôi cung cấp cho bạn một số thông tin tham khảo về điều hòa có giá khoảng 10 triệu đồng:
+
+1. Điều hòa Carrier 1 chiều inverter 9.000 btu/h (1 hp) - Mã: 019014000001
+  - Diện tích sử dụng: dưới 15m²
+  - Mức tiêu thụ điện: 1.15 kw/h
+  - Trọng lượng dàn lạnh: 12 kg, dàn nóng: 25 kg
+  - Giá tiền: 9,423,040 đ
+
+Nếu bạn cần thêm thông tin chi tiết về sản phẩm này hoặc muốn xem thêm các sản phẩm khác, hãy cho tôi biết!
+2024-08-14 10:32:32,012 - INFO - =====LLM done!=====
+2024-08-14 10:32:32,015 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 10:33:15,964 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 10:33:15,964 - INFO - InputText: nói thêm sản phẩm điều hòa mdv
+2024-08-14 10:33:15,964 - INFO - ---ChatText---
+2024-08-14 10:33:15,964 - INFO - =====rasa=====
+2024-08-14 10:33:16,081 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 10:33:16,081 - INFO - ====rasa done!====
+2024-08-14 10:33:16,081 - INFO - =====LLM=====
+2024-08-14 10:33:17,261 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:33:23,534 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:33:23,540 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 10:33:23,681 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.004s]
+2024-08-14 10:33:23,681 - INFO - ======== elasticsearch output ==========:
+
+1. *điều hòa mdv - inverter 9000 btu - Mã: 019013000001
+  Thông số sản phẩm: nguồn điện: 220-240v
+công suất: 9500 btu/h
+công suất tiêu thụ: 745 w
+cường độ dòng điện: 3.4 a
+err: 3.54 w/w
+inverter : có
+kích thước máy trong ( dxrxc): 726x210x291 (mm)
+khối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 kg
+kích thước máy ngoài (dxrxc): 835x300x540 (mm)
+khối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg
+loại gas/ khối lượng nạp: r32/0.38
+ap suất thiết kế: 4.3/1.7 mpa
+chiều dài đường ống tối đa: 25m
+chênh lệch độ cao tối đa: 10m
+phạm vi lành lạnh hiệu quả : 12~18 m2
+hiệu suất năng lượng : 4.48 cspf
+bảo hành 3 năm cho sản phẩm
+bảo hành 5 năm cho máy nén
+suất xứ : thái lan
+ - Giá tiền: 6,014,184 đ*
+
+2. *điều hòa mdv 1 chiều 12000 btu - model 2023 - Mã: 019013000004
+  Thông số sản phẩm: model: mdvg-13crdn8
+công suất: 12.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 15 - 20m²
+gas: r32
+mức tiêu thụ điện: 1.15 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 810 x 285 x 210 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 14 kg
+trọng lượng dàn nóng: 25 kg
+ - Giá tiền: 7,246,030 đ*
+
+3. *điều hòa mdv 1 chiều inverter 18000 btu - model 2023 - Mã: 019013000003
+  Thông số sản phẩm: model: mdvg-18crdn8
+công suất: 18.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 20 - 30m²
+gas: r32
+mức tiêu thụ điện: 1.65 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 969 x 320 x 241 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 18 kg
+trọng lượng dàn nóng: 28 kg
+ - Giá tiền: 11,740,520 đ*
+
+4. *quạt điều hòa không khí everest 6000d - Mã: M&EGD000154
+  Thông số sản phẩm: • điện áp: 220v - 50hz
+• kích thước: (dài) 440 x (rộng) 340 x (cao) 970 mm
+• lưu lượng gió: 6000m3/h
+• dung tích khay chứa nước: 45l
+• công suất: 80w
+• điều khiển từ xa: có
+• cảm biến chất lượng không khí: có
+• chức năng tạo ion: có
+• tốc độ gió: 3 tốc độ
+• hướng gió: 4 chiều trái phải, lên xuống
+ - Giá tiền: 2,427,000 đ*
+
+2024-08-14 10:33:23,683 - INFO - ==Conversation==
+2024-08-14 10:33:25,215 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:33:25,217 - INFO - +LLM out+:
+Xin chào, dựa trên thông tin tôi đã tìm thấy, tôi cung cấp cho bạn một số thông tin tham khảo về điều hòa MDV có giá khoảng 10 triệu đồng:
+
+1. Điều hòa MDV - Inverter 9000 BTU - Mã: 019013000001
+  - Nguồn điện: 220-240V
+  - Công suất: 9500 BTU/h
+  - Kích thước dàn lạnh: 726x210x291 (mm)
+  - Khối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 kg
+  - Suất xứ: Thái Lan
+  - Giá tiền: 6,014,184 đ
+
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Mã: 019013000004
+  - Diện tích sử dụng: 15 - 20m²
+  - Mức tiêu thụ điện: 1.15 kW/h
+  - Kích thước dàn lạnh: 810 x 285 x 210 mm
+  - Kích thước dàn nóng: 770 x 285 x 540 mm
+  - Trọng lượng dàn lạnh: 14 kg
+  - Trọng lượng dàn nóng: 25 kg
+  - Giá tiền: 7,246,030 đ
+
+Nếu bạn cần thêm thông tin chi tiết về từng sản phẩm, hãy cho tôi biết!
+2024-08-14 10:33:25,217 - INFO - =====LLM done!=====
+2024-08-14 10:33:25,219 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 10:34:56,557 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 10:34:56,557 - INFO - InputText: tôi vừa hỏi gì
+2024-08-14 10:34:56,557 - INFO - ---ChatText---
+2024-08-14 10:34:56,557 - INFO - =====rasa=====
+2024-08-14 10:34:56,681 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 10:34:56,681 - INFO - ====rasa done!====
+2024-08-14 10:34:56,681 - INFO - =====LLM=====
+2024-08-14 10:34:57,496 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:35:00,407 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:35:00,413 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 10:35:00,413 - WARNING - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2024-08-14 10:35:00,416 - INFO - ==Conversation2==
+2024-08-14 10:35:01,076 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:35:01,078 - INFO - +LLM out+:
+Anh/chị muốn xem sản phẩm nào? Có tầm giá bao nhiêu? Tôi sẽ giúp Anh/chị tìm kiếm. Cảm ơn Anh/chị!
+2024-08-14 10:35:01,078 - INFO - =====LLM done!=====
+2024-08-14 10:35:01,080 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 10:36:47,965 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 10:36:47,965 - INFO - InputText: số lượng sản phẩm điều hòa
+2024-08-14 10:36:47,965 - INFO - ---ChatText---
+2024-08-14 10:36:47,965 - INFO - =====rasa=====
+2024-08-14 10:36:48,084 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 10:36:48,084 - INFO - ====rasa done!====
+2024-08-14 10:36:48,084 - INFO - =====LLM=====
+2024-08-14 10:36:48,984 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:36:49,973 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:36:49,978 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 10:36:50,102 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.033s]
+2024-08-14 10:36:50,102 - INFO - ======== elasticsearch output ==========:
+---Hiện có 14 sản phẩm là:  điều hòa mdv - inverter 9000 btu - Mã: 019013000001
+  Thông số sản phẩm: nguồn điện: 220-240v
+công suất: 9500 btu/h
+công suất tiêu thụ: 745 w
+cường độ dòng điện: 3.4 a
+err: 3.54 w/w
+inverter : có
+kích thước máy trong ( dxrxc): 726x210x291 (mm)
+khối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 kg
+kích thước máy ngoài (dxrxc): 835x300x540 (mm)
+khối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg
+loại gas/ khối lượng nạp: r32/0.38
+ap suất thiết kế: 4.3/1.7 mpa
+chiều dài đường ống tối đa: 25m
+chênh lệch độ cao tối đa: 10m
+phạm vi lành lạnh hiệu quả : 12~18 m2
+hiệu suất năng lượng : 4.48 cspf
+bảo hành 3 năm cho sản phẩm
+bảo hành 5 năm cho máy nén
+suất xứ : thái lan
+ - Giá tiền: 6,014,184 đ
+  điều hòa mdv 1 chiều 12000 btu - model 2023 - Mã: 019013000004
+  Thông số sản phẩm: model: mdvg-13crdn8
+công suất: 12.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 15 - 20m²
+gas: r32
+mức tiêu thụ điện: 1.15 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 810 x 285 x 210 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 14 kg
+trọng lượng dàn nóng: 25 kg
+ - Giá tiền: 7,246,030 đ
+  điều hòa mdv 1 chiều inverter 18000 btu - model 2023 - Mã: 019013000003
+  Thông số sản phẩm: model: mdvg-18crdn8
+công suất: 18.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 20 - 30m²
+gas: r32
+mức tiêu thụ điện: 1.65 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 969 x 320 x 241 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 18 kg
+trọng lượng dàn nóng: 28 kg
+ - Giá tiền: 11,740,520 đ
+...còn nữa. Hãy trả lời là có 14 sản phẩm!
+2024-08-14 10:36:50,103 - INFO - ==Conversation==
+2024-08-14 10:36:50,771 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:36:50,773 - INFO - +LLM out+:
+Hiện tại, chúng tôi có 14 sản phẩm điều hòa khác nhau. Nếu Anh/chị muốn xem thông tin chi tiết về từng sản phẩm, hãy cho tôi biết!
+2024-08-14 10:36:50,773 - INFO - =====LLM done!=====
+2024-08-14 10:36:50,775 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 10:37:45,759 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 10:37:45,760 - INFO - InputText: số lượng sản phẩm điều hòa
+2024-08-14 10:37:45,760 - INFO - ---ChatText---
+2024-08-14 10:37:45,760 - INFO - =====rasa=====
+2024-08-14 10:37:45,884 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 10:37:45,884 - INFO - ====rasa done!====
+2024-08-14 10:37:45,884 - INFO - =====LLM=====
+2024-08-14 10:37:46,820 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:37:48,113 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:37:48,119 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 10:37:48,213 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.004s]
+2024-08-14 10:37:48,214 - INFO - ======== elasticsearch output ==========:
+---Hiện có 14 sản phẩm là:  điều hòa mdv - inverter 9000 btu - Mã: 019013000001
+  Thông số sản phẩm: nguồn điện: 220-240v
+công suất: 9500 btu/h
+công suất tiêu thụ: 745 w
+cường độ dòng điện: 3.4 a
+err: 3.54 w/w
+inverter : có
+kích thước máy trong ( dxrxc): 726x210x291 (mm)
+khối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 kg
+kích thước máy ngoài (dxrxc): 835x300x540 (mm)
+khối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg
+loại gas/ khối lượng nạp: r32/0.38
+ap suất thiết kế: 4.3/1.7 mpa
+chiều dài đường ống tối đa: 25m
+chênh lệch độ cao tối đa: 10m
+phạm vi lành lạnh hiệu quả : 12~18 m2
+hiệu suất năng lượng : 4.48 cspf
+bảo hành 3 năm cho sản phẩm
+bảo hành 5 năm cho máy nén
+suất xứ : thái lan
+ - Giá tiền: 6,014,184 đ
+  điều hòa mdv 1 chiều 12000 btu - model 2023 - Mã: 019013000004
+  Thông số sản phẩm: model: mdvg-13crdn8
+công suất: 12.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 15 - 20m²
+gas: r32
+mức tiêu thụ điện: 1.15 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 810 x 285 x 210 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 14 kg
+trọng lượng dàn nóng: 25 kg
+ - Giá tiền: 7,246,030 đ
+  điều hòa mdv 1 chiều inverter 18000 btu - model 2023 - Mã: 019013000003
+  Thông số sản phẩm: model: mdvg-18crdn8
+công suất: 18.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 20 - 30m²
+gas: r32
+mức tiêu thụ điện: 1.65 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 969 x 320 x 241 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 18 kg
+trọng lượng dàn nóng: 28 kg
+ - Giá tiền: 11,740,520 đ
+...còn nữa. Hãy trả lời là có 14 sản phẩm!
+2024-08-14 10:37:48,215 - INFO - ==Conversation==
+2024-08-14 10:37:48,871 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:37:48,885 - INFO - +LLM out+:
+Hiện tại, chúng tôi có 14 sản phẩm điều hòa khác nhau. Nếu anh/chị muốn xem sản phẩm nào, có tầm giá bao nhiêu? Tôi sẽ giúp anh/chị tìm kiếm. Cảm ơn anh/chị!
+2024-08-14 10:37:48,885 - INFO - =====LLM done!=====
+2024-08-14 10:37:48,887 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 10:38:08,610 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 10:38:08,610 - INFO - InputText: tôi vừa hỏi gì
+2024-08-14 10:38:08,611 - INFO - ---ChatText---
+2024-08-14 10:38:08,611 - INFO - =====rasa=====
+2024-08-14 10:38:08,735 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 10:38:08,735 - INFO - ====rasa done!====
+2024-08-14 10:38:08,735 - INFO - =====LLM=====
+2024-08-14 10:38:09,558 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:38:11,290 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:38:11,292 - INFO - ==Conversation2==
+2024-08-14 10:38:11,885 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:38:11,887 - INFO - +LLM out+:
+Anh/chị muốn xem sản phẩm nào? Có tầm giá bao nhiêu? Tôi sẽ giúp anh/chị tìm kiếm. Cảm ơn anh/chị!
+2024-08-14 10:38:11,887 - INFO - =====LLM done!=====
+2024-08-14 10:38:11,889 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 10:39:31,110 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 10:39:31,110 - INFO - InputText: số lượng sản phẩm điều hòa
+2024-08-14 10:39:31,110 - INFO - ---ChatText---
+2024-08-14 10:39:31,110 - INFO - =====rasa=====
+2024-08-14 10:39:31,234 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 10:39:31,234 - INFO - ====rasa done!====
+2024-08-14 10:39:31,234 - INFO - =====LLM=====
+2024-08-14 10:39:32,127 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:39:33,087 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:39:33,092 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 10:39:33,199 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.015s]
+2024-08-14 10:39:33,199 - INFO - ======== elasticsearch output ==========:
+---Hiện có 14 sản phẩm là:  điều hòa mdv - inverter 9000 btu - Mã: 019013000001
+  Thông số sản phẩm: nguồn điện: 220-240v
+công suất: 9500 btu/h
+công suất tiêu thụ: 745 w
+cường độ dòng điện: 3.4 a
+err: 3.54 w/w
+inverter : có
+kích thước máy trong ( dxrxc): 726x210x291 (mm)
+khối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 kg
+kích thước máy ngoài (dxrxc): 835x300x540 (mm)
+khối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg
+loại gas/ khối lượng nạp: r32/0.38
+ap suất thiết kế: 4.3/1.7 mpa
+chiều dài đường ống tối đa: 25m
+chênh lệch độ cao tối đa: 10m
+phạm vi lành lạnh hiệu quả : 12~18 m2
+hiệu suất năng lượng : 4.48 cspf
+bảo hành 3 năm cho sản phẩm
+bảo hành 5 năm cho máy nén
+suất xứ : thái lan
+ - Giá tiền: 6,014,184 đ
+  điều hòa mdv 1 chiều 12000 btu - model 2023 - Mã: 019013000004
+  Thông số sản phẩm: model: mdvg-13crdn8
+công suất: 12.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 15 - 20m²
+gas: r32
+mức tiêu thụ điện: 1.15 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 810 x 285 x 210 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 14 kg
+trọng lượng dàn nóng: 25 kg
+ - Giá tiền: 7,246,030 đ
+  điều hòa mdv 1 chiều inverter 18000 btu - model 2023 - Mã: 019013000003
+  Thông số sản phẩm: model: mdvg-18crdn8
+công suất: 18.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 20 - 30m²
+gas: r32
+mức tiêu thụ điện: 1.65 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 969 x 320 x 241 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 18 kg
+trọng lượng dàn nóng: 28 kg
+ - Giá tiền: 11,740,520 đ
+...còn nữa. Hãy trả lời là có 14 sản phẩm!
+2024-08-14 10:39:33,200 - INFO - ==Conversation==
+2024-08-14 10:39:33,772 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:39:33,786 - INFO - +LLM out+:
+Tôi có 14 sản phẩm điều hòa để giới thiệu cho bạn.
+2024-08-14 10:39:33,786 - INFO - =====LLM done!=====
+2024-08-14 10:39:33,788 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 10:39:57,439 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 10:39:57,439 - INFO - InputText: tôi vừa hỏi gì
+2024-08-14 10:39:57,439 - INFO - ---ChatText---
+2024-08-14 10:39:57,439 - INFO - =====rasa=====
+2024-08-14 10:39:57,564 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 10:39:57,564 - INFO - ====rasa done!====
+2024-08-14 10:39:57,564 - INFO - =====LLM=====
+2024-08-14 10:39:58,326 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:39:59,269 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:39:59,274 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 10:39:59,275 - WARNING - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2024-08-14 10:39:59,277 - INFO - ==Conversation2==
+2024-08-14 10:39:59,851 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:39:59,854 - INFO - +LLM out+:
+Bạn hỏi số lượng sản phẩm điều hòa, và tôi trả lời là tôi có 14 sản phẩm điều hòa để giới thiệu cho bạn.
+2024-08-14 10:39:59,854 - INFO - =====LLM done!=====
+2024-08-14 10:39:59,855 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 10:40:17,627 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 10:40:17,627 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 10:40:17,627 - INFO - ---ChatText---
+2024-08-14 10:40:17,628 - INFO - =====rasa=====
+2024-08-14 10:40:17,756 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 10:40:17,757 - INFO - ====rasa done!====
+2024-08-14 10:40:17,757 - INFO - =====LLM=====
+2024-08-14 10:40:18,655 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:40:19,826 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:40:19,832 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 10:40:19,925 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 10:40:19,925 - INFO - ======== elasticsearch output ==========:
+
+2024-08-14 10:40:19,926 - INFO - ==Conversation==
+2024-08-14 10:40:21,325 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:40:21,327 - INFO - +LLM out+:
+Xin lỗi, tôi không thể tìm thấy sản phẩm điều hòa nào có giá chính xác là 30 triệu đồng. Tuy nhiên, tôi có thể giới thiệu một số sản phẩm điều hòa với giá gần với mức giá bạn quan tâm.
+
+1. Điều hòa MDV - Inverter 9000 BTU - Mã: 019013000001
+- Bảo hành: 3 năm cho sản phẩm, 5 năm cho máy nén
+- Kích thước dàn lạnh: 726x210x291 (mm)
+- Kích thước dàn nóng: 835x300x540 (mm)
+- Suất xứ: Thái Lan
+- Giá tiền: 6,014,184 đồng
+
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Mã: 019013000004
+- Diện tích sử dụng: 15 - 20m²
+- Mức tiêu thụ điện: 1.15 kw/h
+- Trọng lượng dàn lạnh: 14 kg
+- Trọng lượng dàn nóng: 25 kg
+- Giá tiền: 7,246,030 đồng
+
+Nếu bạn cần thêm thông tin chi tiết về từng sản phẩm, hãy cho tôi biết!!
+2024-08-14 10:40:21,327 - INFO - =====LLM done!=====
+2024-08-14 10:40:21,329 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 10:42:28,268 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 10:42:28,268 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 10:42:28,268 - INFO - ---ChatText---
+2024-08-14 10:42:28,268 - INFO - =====rasa=====
+2024-08-14 10:42:28,401 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 10:42:28,401 - INFO - ====rasa done!====
+2024-08-14 10:42:28,401 - INFO - =====LLM=====
+2024-08-14 10:42:29,273 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:42:30,295 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:42:30,301 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.003s]
+2024-08-14 10:42:30,396 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 10:42:30,396 - INFO - ======== elasticsearch output ==========:
+
+2024-08-14 10:42:30,397 - INFO - ==Conversation==
+2024-08-14 10:42:31,639 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:42:31,653 - INFO - +LLM out+:
+Nếu bạn đang tìm kiếm điều hòa với giá khoảng 30 triệu, tôi có thể giới thiệu hai sản phẩm sau:
+
+1. Điều hòa MDV - Inverter 9000 BTU - Mã: 019013000001
+- Bảo hành: 3 năm cho sản phẩm, 5 năm cho máy nén
+- Kích thước dàn lạnh: 726x210x291 (mm)
+- Kích thước dàn nóng: 835x300x540 (mm)
+- Suất xứ: Thái Lan
+- Giá tiền: 6,014,184 đ
+
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Mã: 019013000004
+- Diện tích sử dụng: 15 - 20m²
+- Mức tiêu thụ điện: 1.15 kw/h
+- Trọng lượng dàn lạnh: 14 kg
+- Trọng lượng dàn nóng: 25 kg
+- Giá tiền: 7,246,030 đ
+
+Hãy cho tôi biết nếu bạn cần thêm thông tin chi tiết về từng sản phẩm!
+2024-08-14 10:42:31,653 - INFO - =====LLM done!=====
+2024-08-14 10:42:31,656 - INFO - ======== logs_chat_saleman sucessfully! ==========}
+2024-08-14 10:43:16,575 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 10:43:16,575 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 10:43:16,575 - INFO - ---ChatText---
+2024-08-14 10:43:16,575 - INFO - =====rasa=====
+2024-08-14 10:43:16,711 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 10:43:16,712 - INFO - ====rasa done!====
+2024-08-14 10:43:16,712 - INFO - =====LLM=====
+2024-08-14 10:43:18,017 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:43:19,090 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:43:19,095 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 10:43:19,187 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 10:43:19,187 - INFO - ======== elasticsearch output ==========:
+
+2024-08-14 10:44:31,095 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 10:44:31,096 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 10:44:31,096 - INFO - ---ChatText---
+2024-08-14 10:44:31,096 - INFO - =====rasa=====
+2024-08-14 10:44:31,233 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 10:44:31,233 - INFO - ====rasa done!====
+2024-08-14 10:44:31,233 - INFO - =====LLM=====
+2024-08-14 10:44:37,079 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:44:38,090 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:44:38,096 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 10:44:38,190 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 10:44:38,190 - INFO - ======== elasticsearch output ==========:
+
+2024-08-14 10:45:22,939 - INFO - ----------------NEW_SESSION--------------
+2024-08-14 10:45:22,939 - INFO - InputText: có bán điều hòa 30 tr
+2024-08-14 10:45:22,939 - INFO - ---ChatText---
+2024-08-14 10:45:22,939 - INFO - =====rasa=====
+2024-08-14 10:45:23,078 - INFO - +rasa out+:
+LLM_predict
+2024-08-14 10:45:23,078 - INFO - ====rasa done!====
+2024-08-14 10:45:23,078 - INFO - =====LLM=====
+2024-08-14 10:45:33,313 - INFO - Retrying request to /chat/completions in 0.996066 seconds
+2024-08-14 10:45:44,322 - INFO - Retrying request to /chat/completions in 1.758457 seconds
+2024-08-14 10:45:46,774 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:45:47,857 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-14 10:45:47,862 - INFO - HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024-08-14 10:45:47,954 - INFO - POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024-08-14 10:45:47,954 - INFO - ======== elasticsearch output ==========:
+
