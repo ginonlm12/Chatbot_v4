@@ -14,24 +14,6 @@ config_app = get_config()
 
 # Danh sách các API key
 api_keys = config_app['parameter']['grog_api_keys']
-grog_api_keys_1= [
-        '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',
-        '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',
-        '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',
-        "sk-proj-w3azMwrCVPY4fIZFYKpXT3BlbkFJkzTwig65TQM4hqSaInwM"]
-
-grog_api_keys_2 = [
-        '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',
-        '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',
-        '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',
-        "sk-proj-w3azMwrCVPY4fIZFYKpXT3BlbkFJkzTwig65TQM4hqSaInwM"]
-grog_api_keys_3 = [
-        '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',
-        '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',
-        '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',
-        "sk-proj-w3azMwrCVPY4fIZFYKpXT3BlbkFJkzTwig65TQM4hqSaInwM"
-    ]
-
 current_key_index1 = 0
 current_key_index2 = 0
 current_key_index3 = 0
