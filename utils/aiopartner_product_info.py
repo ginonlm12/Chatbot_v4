@@ -10,7 +10,7 @@ def db():
     port = 5000
     dbname = "vcc_dw"
     username = "postgres"
-    password = "Vcc@123#20200"
+    password = ""
 
     encoded_password = quote_plus(password)
     # Tạo URL kết nối
