@@ -5,7 +5,7 @@ class DatabaseHandler:
     def __init__(self):
         dbname = "ai_services"
         user = "ai_chatbot_admin"
-        password = "Vcc#2024#"
+        password = ""
         host = "10.248.243.162"
         port = "5432"
         # self.shema = "chat_saleman"
