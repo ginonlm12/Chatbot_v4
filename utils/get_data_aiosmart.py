@@ -14,7 +14,7 @@ params = {
 
 # Thay thế token_bearer bằng token thực tế của bạn nếu cần xác thực
 headers = {
-    "Authorization": "Bearer 50s6s7r6d2zay1zvknfa3qfr41g1oedt",
+    "Authorization": "...",
     "Content-Type": "application/json"  # Đảm bảo tiêu đề đúng
 }
 
